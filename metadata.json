@@ -53,7 +53,9 @@
 			"YOffset": 1.5000001
 		}
 	],
+	"CustomEnvironmentPresets": [],
 	"CustomItems": [],
+	"CustomProceduralAnimations": [],
 	"CustomProps": [],
 	"CustomResources": [
 		{
@@ -156,9 +158,11 @@
 	],
 	"CustomUpgrades": [],
 	"CustomVfx": [],
+	"CustomWaterProfiles": [],
 	"CustomWeapons": [],
+	"DefaultEnvironmentPreset": null,
 	"Dependencies": [],
-	"GameBuildNumber": "v0.0.2",
+	"GameBuildNumber": "v0.0.3",
 	"MapProperties": {
 		"Author": null,
 		"CameraBoundsBottom": null,
@@ -251,6 +255,7 @@
 			"CollisionCircleRatios": 0,
 			"ColorTint": "#ffffff",
 			"DespillPlayerColor": true,
+			"IgnorePlayerColor": false,
 			"NormalizeLuminance": true,
 			"Offsets": 0,
 			"Scales": 1.5
@@ -304,6 +309,7 @@
 			"Scales": 1.2
 		}
 	},
+	"TerrainProfiles": [],
 	"decals": {
 		"arcane_spark.rtex": {}
 	},
@@ -311,6 +317,7 @@
 	"license": "https://www.realm-game.com/RealmPlatform_UGC_License_v1.txt",
 	"noise_textures": {},
 	"ribbons": {},
+	"shaders": {},
 	"skyboxes": {},
 	"textures": {
 		"ancient_jungle_overgrown_path.rtex": {
