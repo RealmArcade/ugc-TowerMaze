@@ -1,1610 +1,1610 @@
 {
-	"CameraBoundsBottom": 157,
-	"CameraBoundsLeft": -159,
-	"CameraBoundsRight": 159,
-	"CameraBoundsTop": -127,
-	"Coordinates": [],
-	"Decals": [],
-	"Depth": 160,
-	"Props": [
-		{
-			"PosX": -100.168175,
-			"PosY": 3,
-			"PosZ": -64.267395,
-			"PropId": "crystal_ore_1",
-			"RotationY": 0,
-			"Scale": 1.95
-		},
-		{
-			"PosX": -86.85847,
-			"PosY": 3,
-			"PosZ": -65.01515,
-			"PropId": "crystal_ore_1",
-			"RotationY": 0,
-			"Scale": 1.95
-		},
-		{
-			"PosX": -121.207596,
-			"PosY": 3,
-			"PosZ": -91.54673,
-			"PropId": "crystal_ore_1",
-			"RotationY": 0,
-			"Scale": 1.95
-		},
-		{
-			"PosX": -99.733986,
-			"PosY": 3,
-			"PosZ": -108.14511,
-			"PropId": "crystal_ore_1",
-			"RotationY": 0,
-			"Scale": 1.95
-		},
-		{
-			"PosX": -88.57984,
-			"PosY": 3,
-			"PosZ": -108.22139,
-			"PropId": "crystal_ore_1",
-			"RotationY": 0,
-			"Scale": 1.95
-		},
-		{
-			"PosX": -68.49667,
-			"PosY": 3,
-			"PosZ": -106.29335,
-			"PropId": "crystal_ore_1",
-			"RotationY": 0,
-			"Scale": 1.95
-		},
-		{
-			"PosX": -54.982105,
-			"PosY": 3,
-			"PosZ": -106.81511,
-			"PropId": "crystal_ore_1",
-			"RotationY": 0,
-			"Scale": 1.95
-		},
-		{
-			"PosX": -102.11948,
-			"PosY": 3.0000002,
-			"PosZ": -31.24697,
-			"PropId": "crystal_ore_1",
-			"RotationY": 0,
-			"Scale": 1.55
-		},
-		{
-			"PosX": -85.685135,
-			"PosY": 3.0000002,
-			"PosZ": -31.862326,
-			"PropId": "crystal_ore_1",
-			"RotationY": 0,
-			"Scale": 1.4499999
-		},
-		{
-			"PosX": -145.65096,
-			"PosY": 3,
-			"PosZ": -80.507614,
-			"PropId": "crystal_ore_1",
-			"RotationY": 0,
-			"Scale": 1.55
-		},
-		{
-			"PosX": -105.07528,
-			"PosY": 3,
-			"PosZ": -28.153194,
-			"PropId": "crystal_ore_1",
-			"RotationY": 0,
-			"Scale": 1.95
-		},
-		{
-			"PosX": -83.22848,
-			"PosY": 3,
-			"PosZ": -28.795168,
-			"PropId": "crystal_ore_1",
-			"RotationY": 0,
-			"Scale": 1.95
-		},
-		{
-			"PosX": -149.56192,
-			"PosY": 3,
-			"PosZ": -77.60265,
-			"PropId": "crystal_ore_1",
-			"RotationY": 0,
-			"Scale": 1.95
-		},
-		{
-			"PosX": -148.34248,
-			"PosY": 3,
-			"PosZ": -95.44671,
-			"PropId": "crystal_ore_1",
-			"RotationY": 0,
-			"Scale": 1.95
-		},
-		{
-			"PosX": -39.596394,
-			"PosY": 3,
-			"PosZ": -80.694,
-			"PropId": "crystal_ore_1",
-			"RotationY": 0,
-			"Scale": 1.3499999
-		},
-		{
-			"PosX": -150.55135,
-			"PosY": 3,
-			"PosZ": -98.76779,
-			"PropId": "crystal_ore_1",
-			"RotationY": 0,
-			"Scale": 1.95
-		},
-		{
-			"PosX": -39.392227,
-			"PosY": 3,
-			"PosZ": -93.93994,
-			"PropId": "crystal_ore_1",
-			"RotationY": 0,
-			"Scale": 1.4499999
-		},
-		{
-			"PosX": -37.569233,
-			"PosY": 3,
-			"PosZ": -78.66895,
-			"PropId": "crystal_ore_1",
-			"RotationY": 0,
-			"Scale": 1.95
-		},
-		{
-			"PosX": -37.817947,
-			"PosY": 3,
-			"PosZ": -97.331505,
-			"PropId": "crystal_ore_1",
-			"RotationY": 0,
-			"Scale": 1.95
-		},
-		{
-			"PosX": -145.16852,
-			"PosY": 3,
-			"PosZ": -28.863712,
-			"PropId": "crystal_ore_1",
-			"RotationY": 0,
-			"Scale": 1.95
-		},
-		{
-			"PosX": -148.38196,
-			"PosY": 3,
-			"PosZ": -31.419573,
-			"PropId": "crystal_ore_1",
-			"RotationY": 0,
-			"Scale": 1.3499999
-		},
-		{
-			"PosX": -42.35206,
-			"PosY": 3,
-			"PosZ": -28.294779,
-			"PropId": "crystal_ore_1",
-			"RotationY": 0,
-			"Scale": 1.95
-		},
-		{
-			"PosX": -39.71196,
-			"PosY": 3,
-			"PosZ": -31.056522,
-			"PropId": "crystal_ore_1",
-			"RotationY": 0,
-			"Scale": 1.4499999
-		},
-		{
-			"PosX": 37.033764,
-			"PosY": 3,
-			"PosZ": 10.472433,
-			"PropId": "ice_pillar",
-			"RotationY": 0,
-			"Scale": 4.55
-		},
-		{
-			"PosX": 53.20256,
-			"PosY": 3,
-			"PosZ": 10.466907,
-			"PropId": "ice_pillar",
-			"RotationY": 0,
-			"Scale": 4.55
-		},
-		{
-			"PosX": 65.89145,
-			"PosY": 3,
-			"PosZ": 9.997614,
-			"PropId": "ice_pillar",
-			"RotationY": 0,
-			"Scale": 4.55
-		},
-		{
-			"PosX": 81.99877,
-			"PosY": 3,
-			"PosZ": 9.121156,
-			"PropId": "ice_pillar",
-			"RotationY": 0,
-			"Scale": 4.55
-		},
-		{
-			"PosX": 59.063286,
-			"PosY": 3,
-			"PosZ": 30.77689,
-			"PropId": "ice_tower_1",
-			"RotationY": 0,
-			"Scale": 4.55
-		},
-		{
-			"PosX": 58.982445,
-			"PosY": 3,
-			"PosZ": 59.82126,
-			"PropId": "ice_tower_1",
-			"RotationY": 0,
-			"Scale": 4.55
-		},
-		{
-			"PosX": 91.64586,
-			"PosY": 3,
-			"PosZ": 31.41296,
-			"PropId": "ice_tower_1",
-			"RotationY": 0,
-			"Scale": 4.55
-		},
-		{
-			"PosX": 62.21563,
-			"PosY": 3,
-			"PosZ": 85.27525,
-			"PropId": "ice_tower_1",
-			"RotationY": 0,
-			"Scale": 4.55
-		},
-		{
-			"PosX": 122.25553,
-			"PosY": 3.0000002,
-			"PosZ": 34.641388,
-			"PropId": "ice_tower_1",
-			"RotationY": 0,
-			"Scale": 4.55
-		},
-		{
-			"PosX": 91.630554,
-			"PosY": 3,
-			"PosZ": 89.42999,
-			"PropId": "ice_tower_1",
-			"RotationY": 0,
-			"Scale": 4.55
-		},
-		{
-			"PosX": 120.22808,
-			"PosY": 3,
-			"PosZ": 60.07825,
-			"PropId": "ice_tower_1",
-			"RotationY": 0,
-			"Scale": 4.55
-		},
-		{
-			"PosX": 124.44199,
-			"PosY": 2.9999998,
-			"PosZ": 86.870346,
-			"PropId": "ice_tower_1",
-			"RotationY": 0,
-			"Scale": 4.55
-		},
-		{
-			"PosX": 36.732567,
-			"PosY": 3,
-			"PosZ": -136.68616,
-			"PropId": "obelisk_monolith",
-			"RotationY": 0,
-			"Scale": 2.5499997
-		},
-		{
-			"PosX": 50.4974,
-			"PosY": 3,
-			"PosZ": -136.37016,
-			"PropId": "obelisk_monolith",
-			"RotationY": 0,
-			"Scale": 2.5499997
-		},
-		{
-			"PosX": 65.33505,
-			"PosY": 3,
-			"PosZ": -136.76189,
-			"PropId": "obelisk_monolith",
-			"RotationY": 0,
-			"Scale": 2.5499997
-		},
-		{
-			"PosX": 80.65245,
-			"PosY": 3,
-			"PosZ": -136.73077,
-			"PropId": "obelisk_monolith",
-			"RotationY": 0,
-			"Scale": 2.5499997
-		},
-		{
-			"PosX": -118.42005,
-			"PosY": 3,
-			"PosZ": 37.745316,
-			"PropId": "skull_altar",
-			"RotationY": 0,
-			"Scale": 1.25
-		},
-		{
-			"PosX": -127.05495,
-			"PosY": 3,
-			"PosZ": 37.861107,
-			"PropId": "skull_altar",
-			"RotationY": 0,
-			"Scale": 1.25
-		},
-		{
-			"PosX": -67.80646,
-			"PosY": 3,
-			"PosZ": 39.334892,
-			"PropId": "skull_altar",
-			"RotationY": 0,
-			"Scale": 1.25
-		},
-		{
-			"PosX": -49.92204,
-			"PosY": 3,
-			"PosZ": 39.636475,
-			"PropId": "skull_altar",
-			"RotationY": 0,
-			"Scale": 1.25
-		},
-		{
-			"PosX": -97.469124,
-			"PosY": 3,
-			"PosZ": 52.058414,
-			"PropId": "skull_altar",
-			"RotationY": 0,
-			"Scale": 1.25
-		},
-		{
-			"PosX": -82.4685,
-			"PosY": 3,
-			"PosZ": 52.496128,
-			"PropId": "skull_altar",
-			"RotationY": 0,
-			"Scale": 1.25
-		},
-		{
-			"PosX": -114.38106,
-			"PosY": 3,
-			"PosZ": 52.490276,
-			"PropId": "skull_altar",
-			"RotationY": 0,
-			"Scale": 1.25
-		},
-		{
-			"PosX": -98.21127,
-			"PosY": 3,
-			"PosZ": 64.26366,
-			"PropId": "skull_altar",
-			"RotationY": 0,
-			"Scale": 1.25
-		},
-		{
-			"PosX": -82.28148,
-			"PosY": 3.0000002,
-			"PosZ": 64.01006,
-			"PropId": "skull_altar",
-			"RotationY": 0,
-			"Scale": 1.25
-		},
-		{
-			"PosX": -114.28063,
-			"PosY": 3,
-			"PosZ": 64.14347,
-			"PropId": "skull_altar",
-			"RotationY": 0,
-			"Scale": 1.25
-		},
-		{
-			"PosX": -91.14392,
-			"PosY": 3,
-			"PosZ": 24.781992,
-			"PropId": "tower",
-			"RotationY": 0,
-			"Scale": 5
-		},
-		{
-			"PosX": -123.253815,
-			"PosY": 3,
-			"PosZ": 26.346853,
-			"PropId": "tower",
-			"RotationY": 0,
-			"Scale": 5
-		},
-		{
-			"PosX": -58.532475,
-			"PosY": 3,
-			"PosZ": 30.994259,
-			"PropId": "tower",
-			"RotationY": 0,
-			"Scale": 5
-		},
-		{
-			"PosX": -88.91468,
-			"PosY": 3,
-			"PosZ": 57.83718,
-			"PropId": "tower",
-			"RotationY": 0,
-			"Scale": 5
-		},
-		{
-			"PosX": -123.09792,
-			"PosY": 3,
-			"PosZ": 57.831078,
-			"PropId": "tower",
-			"RotationY": 0,
-			"Scale": 5
-		},
-		{
-			"PosX": -59.694305,
-			"PosY": 3,
-			"PosZ": 58.505104,
-			"PropId": "tower",
-			"RotationY": 0,
-			"Scale": 5
-		},
-		{
-			"PosX": -134.66382,
-			"PosY": 3,
-			"PosZ": 58.15563,
-			"PropId": "tower",
-			"RotationY": 0,
-			"Scale": 5
-		},
-		{
-			"PosX": -45.870636,
-			"PosY": 3,
-			"PosZ": 58.445698,
-			"PropId": "tower",
-			"RotationY": 0,
-			"Scale": 5
-		},
-		{
-			"PosX": -124.82661,
-			"PosY": 3,
-			"PosZ": 82.055885,
-			"PropId": "tower",
-			"RotationY": 0,
-			"Scale": 5
-		},
-		{
-			"PosX": -90.31635,
-			"PosY": 3,
-			"PosZ": 85.04404,
-			"PropId": "tower",
-			"RotationY": 0,
-			"Scale": 5
-		},
-		{
-			"PosX": -56.7836,
-			"PosY": 3,
-			"PosZ": 82.50947,
-			"PropId": "tower",
-			"RotationY": 0,
-			"Scale": 5
-		},
-		{
-			"PosX": -123.45726,
-			"PosY": 3,
-			"PosZ": 93.257095,
-			"PropId": "tower",
-			"RotationY": 0,
-			"Scale": 5
-		},
-		{
-			"PosX": -57.700092,
-			"PosY": 3,
-			"PosZ": 93.982155,
-			"PropId": "tower",
-			"RotationY": 0,
-			"Scale": 5
-		},
-		{
-			"PosX": -90.35937,
-			"PosY": 3,
-			"PosZ": 100.86251,
-			"PropId": "tower",
-			"RotationY": 0,
-			"Scale": 5
-		}
-	],
-	"SkyboxPath": "Assets/skyboxes/jade_shrine.png",
-	"Units": [
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -94.22315,
-			"PosY": 3,
-			"PosZ": -84.746956,
-			"RotationY": 0,
-			"Scale": 5,
-			"UnitId": "Building_001"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -93.52144,
-			"PosY": 3,
-			"PosZ": -55.248215,
-			"RotationY": 0,
-			"Scale": 5,
-			"UnitId": "Building_001"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -64.69885,
-			"PosY": 3,
-			"PosZ": -86.43969,
-			"RotationY": 0,
-			"Scale": 4.05,
-			"UnitId": "Building_001"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -123.132835,
-			"PosY": 3,
-			"PosZ": -60.06087,
-			"RotationY": 0,
-			"Scale": 5,
-			"UnitId": "Building_001"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -95.40515,
-			"PosY": 3,
-			"PosZ": -114.8413,
-			"RotationY": 0,
-			"Scale": 5,
-			"UnitId": "Building_001"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -66.5204,
-			"PosY": 3,
-			"PosZ": -61.344902,
-			"RotationY": 0,
-			"Scale": 5,
-			"UnitId": "Building_001"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -130.4988,
-			"PosY": 3,
-			"PosZ": -87.580605,
-			"RotationY": 0,
-			"Scale": 5,
-			"UnitId": "Building_001"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -93.77395,
-			"PosY": 3,
-			"PosZ": -39.827026,
-			"RotationY": 0,
-			"Scale": 5,
-			"UnitId": "Building_001"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -129.58284,
-			"PosY": 3,
-			"PosZ": -51.239788,
-			"RotationY": 0,
-			"Scale": 5,
-			"UnitId": "Building_001"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -139.99416,
-			"PosY": 3,
-			"PosZ": -84.446754,
-			"RotationY": 0,
-			"Scale": 5,
-			"UnitId": "Building_001"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -52.35337,
-			"PosY": 3,
-			"PosZ": -87.408005,
-			"RotationY": 0,
-			"Scale": 4.05,
-			"UnitId": "Building_001"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -92.51868,
-			"PosY": 3,
-			"PosZ": -125.04679,
-			"RotationY": 0,
-			"Scale": 5,
-			"UnitId": "Building_001"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -63.452908,
-			"PosY": 3,
-			"PosZ": -112.229416,
-			"RotationY": 0,
-			"Scale": 5,
-			"UnitId": "Building_001"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -126.87585,
-			"PosY": 3,
-			"PosZ": -113.98895,
-			"RotationY": 0,
-			"Scale": 5,
-			"UnitId": "Building_001"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -60.003826,
-			"PosY": 3,
-			"PosZ": -51.251507,
-			"RotationY": 0,
-			"Scale": 5,
-			"UnitId": "Building_001"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -127.49095,
-			"PosY": 3,
-			"PosZ": -130.65842,
-			"RotationY": 0,
-			"Scale": 5,
-			"UnitId": "Building_001"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 35.516693,
-			"PosY": 3,
-			"PosZ": -76.99338,
-			"RotationY": 0,
-			"Scale": 2.35,
-			"UnitId": "cactus_plant"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 33.59754,
-			"PosY": 3,
-			"PosZ": -114.48464,
-			"RotationY": 0,
-			"Scale": 2.35,
-			"UnitId": "cactus_plant"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 34.283203,
-			"PosY": 3,
-			"PosZ": -116.87322,
-			"RotationY": 0,
-			"Scale": 1.9500002,
-			"UnitId": "cactus_plant"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 64.88565,
-			"PosY": 3,
-			"PosZ": -90.13295,
-			"RotationY": 0,
-			"Scale": 1.7500001,
-			"UnitId": "cactus_plant"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 65.614494,
-			"PosY": 3,
-			"PosZ": -65.79227,
-			"RotationY": 0,
-			"Scale": 2.35,
-			"UnitId": "cactus_plant"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 65.97905,
-			"PosY": 3,
-			"PosZ": -92.30701,
-			"RotationY": 0,
-			"Scale": 2.35,
-			"UnitId": "cactus_plant"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 66.97761,
-			"PosY": 3,
-			"PosZ": -63.743877,
-			"RotationY": 0,
-			"Scale": 1.8500001,
-			"UnitId": "cactus_plant"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 82.59306,
-			"PosY": 3,
-			"PosZ": -109.10276,
-			"RotationY": 0,
-			"Scale": 2.35,
-			"UnitId": "cactus_plant"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 83.34559,
-			"PosY": 3,
-			"PosZ": -107.45397,
-			"RotationY": 0,
-			"Scale": 1.8500001,
-			"UnitId": "cactus_plant"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 79.058586,
-			"PosY": 3,
-			"PosZ": -29.30402,
-			"RotationY": 0,
-			"Scale": 2.35,
-			"UnitId": "cactus_plant"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 80.35453,
-			"PosY": 3,
-			"PosZ": -31.185555,
-			"RotationY": 0,
-			"Scale": 1.8500001,
-			"UnitId": "cactus_plant"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 97.52571,
-			"PosY": 3,
-			"PosZ": -65.27657,
-			"RotationY": 0,
-			"Scale": 2.35,
-			"UnitId": "cactus_plant"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 97.728584,
-			"PosY": 3,
-			"PosZ": -62.404552,
-			"RotationY": 0,
-			"Scale": 1.7500001,
-			"UnitId": "cactus_plant"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 112.60304,
-			"PosY": 3,
-			"PosZ": -101.64936,
-			"RotationY": 0,
-			"Scale": 2.35,
-			"UnitId": "cactus_plant"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 113.93677,
-			"PosY": 3,
-			"PosZ": -79.99944,
-			"RotationY": 0,
-			"Scale": 1.7500001,
-			"UnitId": "cactus_plant"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 114.332405,
-			"PosY": 3,
-			"PosZ": -65.14982,
-			"RotationY": 0,
-			"Scale": 2.35,
-			"UnitId": "cactus_plant"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 115.0821,
-			"PosY": 3,
-			"PosZ": -82.44101,
-			"RotationY": 0,
-			"Scale": 2.35,
-			"UnitId": "cactus_plant"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 114.55658,
-			"PosY": 3,
-			"PosZ": -62.106205,
-			"RotationY": 0,
-			"Scale": 1.9500002,
-			"UnitId": "cactus_plant"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 114.0977,
-			"PosY": 3,
-			"PosZ": -106.448204,
-			"RotationY": 0,
-			"Scale": 2.35,
-			"UnitId": "cactus_plant"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 142.86136,
-			"PosY": 3,
-			"PosZ": -81.95452,
-			"RotationY": 0,
-			"Scale": 2.35,
-			"UnitId": "cactus_plant"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 144.28598,
-			"PosY": 3,
-			"PosZ": -79.13742,
-			"RotationY": 0,
-			"Scale": 1.9500002,
-			"UnitId": "cactus_plant"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 140.66658,
-			"PosY": 3,
-			"PosZ": -26.82254,
-			"RotationY": 0,
-			"Scale": 2.35,
-			"UnitId": "cactus_plant"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 144.12106,
-			"PosY": 3,
-			"PosZ": -30.611032,
-			"RotationY": 0,
-			"Scale": 2.35,
-			"UnitId": "cactus_plant"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 38.77342,
-			"PosY": 3,
-			"PosZ": 40.059944,
-			"RotationY": 0,
-			"Scale": 2.3,
-			"UnitId": "crystal_cluster_18"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 55.02938,
-			"PosY": 3,
-			"PosZ": 40.17362,
-			"RotationY": 0,
-			"Scale": 2.3,
-			"UnitId": "crystal_cluster_18"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 63.617756,
-			"PosY": 3,
-			"PosZ": 37.610172,
-			"RotationY": 0,
-			"Scale": 2.3,
-			"UnitId": "crystal_cluster_18"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 38.659744,
-			"PosY": 3,
-			"PosZ": 71.8898,
-			"RotationY": 0,
-			"Scale": 2.3,
-			"UnitId": "crystal_cluster_18"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 85.85306,
-			"PosY": 3,
-			"PosZ": 38.679996,
-			"RotationY": 0,
-			"Scale": 2.3,
-			"UnitId": "crystal_cluster_18"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 51.16433,
-			"PosY": 3,
-			"PosZ": 81.097725,
-			"RotationY": 0,
-			"Scale": 2.3,
-			"UnitId": "crystal_cluster_18"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 68.32971,
-			"PosY": 3,
-			"PosZ": 67.00165,
-			"RotationY": 0,
-			"Scale": 2.3,
-			"UnitId": "crystal_cluster_18"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 98.167465,
-			"PosY": 3,
-			"PosZ": 39.007324,
-			"RotationY": 0,
-			"Scale": 2.6,
-			"UnitId": "crystal_cluster_18"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 38.091347,
-			"PosY": 3,
-			"PosZ": 113.3823,
-			"RotationY": 0,
-			"Scale": 2.3,
-			"UnitId": "crystal_cluster_18"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 98.818184,
-			"PosY": 3,
-			"PosZ": 64.73377,
-			"RotationY": 0,
-			"Scale": 2.8999996,
-			"UnitId": "crystal_cluster_18"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 115.84715,
-			"PosY": 3,
-			"PosZ": 39.491554,
-			"RotationY": 0,
-			"Scale": 2.3,
-			"UnitId": "crystal_cluster_18"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 86.202965,
-			"PosY": 3,
-			"PosZ": 81.98188,
-			"RotationY": 0,
-			"Scale": 2.900001,
-			"UnitId": "crystal_cluster_18"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 97.78941,
-			"PosY": 3,
-			"PosZ": 81.55244,
-			"RotationY": 0,
-			"Scale": 3.2999992,
-			"UnitId": "crystal_cluster_18"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 147.7907,
-			"PosY": 3,
-			"PosZ": 42.44718,
-			"RotationY": 0,
-			"Scale": 2.3,
-			"UnitId": "crystal_cluster_18"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 147.60864,
-			"PosY": 3,
-			"PosZ": 47.178265,
-			"RotationY": 0,
-			"Scale": 2.3,
-			"UnitId": "crystal_cluster_18"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 133.58093,
-			"PosY": 3,
-			"PosZ": 78.824165,
-			"RotationY": 0,
-			"Scale": 2.3,
-			"UnitId": "crystal_cluster_18"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 147.79529,
-			"PosY": 3,
-			"PosZ": 69.16341,
-			"RotationY": 0,
-			"Scale": 2.3,
-			"UnitId": "crystal_cluster_18"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 147.1228,
-			"PosY": 3,
-			"PosZ": 83.073616,
-			"RotationY": 0,
-			"Scale": 2.3,
-			"UnitId": "crystal_cluster_18"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 58.832264,
-			"PosY": 3,
-			"PosZ": 17.938194,
-			"RotationY": 0,
-			"Scale": 4.55,
-			"UnitId": "ice_altar"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 44.89785,
-			"PosY": 3,
-			"PosZ": 62.40175,
-			"RotationY": 0,
-			"Scale": 4.55,
-			"UnitId": "ice_altar"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 91.7476,
-			"PosY": 3,
-			"PosZ": 16.807472,
-			"RotationY": 0,
-			"Scale": 4.55,
-			"UnitId": "ice_altar"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 91.611336,
-			"PosY": 3,
-			"PosZ": 59.476162,
-			"RotationY": 0,
-			"Scale": 4.55,
-			"UnitId": "ice_altar"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 58.735634,
-			"PosY": 3,
-			"PosZ": 96.717094,
-			"RotationY": 0,
-			"Scale": 4.55,
-			"UnitId": "ice_altar"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 128.58514,
-			"PosY": 3.0000002,
-			"PosZ": 26.9415,
-			"RotationY": 0,
-			"Scale": 4.55,
-			"UnitId": "ice_altar"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 92.157,
-			"PosY": 3,
-			"PosZ": 104.90192,
-			"RotationY": 0,
-			"Scale": 4.55,
-			"UnitId": "ice_altar"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 135.73271,
-			"PosY": 3,
-			"PosZ": 58.69438,
-			"RotationY": 0,
-			"Scale": 4.55,
-			"UnitId": "ice_altar"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 125.71475,
-			"PosY": 3,
-			"PosZ": 98.354065,
-			"RotationY": 0,
-			"Scale": 4.55,
-			"UnitId": "ice_altar"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -97.42801,
-			"PosY": 3,
-			"PosZ": 8.412226,
-			"RotationY": 0,
-			"Scale": 3.2000008,
-			"UnitId": "lava_pillar"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -118.77095,
-			"PosY": 3,
-			"PosZ": 8.460721,
-			"RotationY": 0,
-			"Scale": 3.2000008,
-			"UnitId": "lava_pillar"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -128.72256,
-			"PosY": 3,
-			"PosZ": 8.053385,
-			"RotationY": 0,
-			"Scale": 3.3000007,
-			"UnitId": "lava_pillar"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -143.38792,
-			"PosY": 3,
-			"PosZ": 8.0533905,
-			"RotationY": 0,
-			"Scale": 3.3000007,
-			"UnitId": "lava_pillar"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -96.51033,
-			"PosY": 3,
-			"PosZ": 36.31459,
-			"RotationY": 0,
-			"Scale": 2.35,
-			"UnitId": "lava_rock_formation_1"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -83.24883,
-			"PosY": 3,
-			"PosZ": 37.3152,
-			"RotationY": 0,
-			"Scale": 2.35,
-			"UnitId": "lava_rock_formation_1"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -145.15895,
-			"PosY": 3,
-			"PosZ": 41.281322,
-			"RotationY": 0,
-			"Scale": 2.35,
-			"UnitId": "lava_rock_formation_1"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -143.61401,
-			"PosY": 3,
-			"PosZ": 44.513565,
-			"RotationY": 0,
-			"Scale": 1.5500001,
-			"UnitId": "lava_rock_formation_1"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -33.40343,
-			"PosY": 3,
-			"PosZ": 44.70782,
-			"RotationY": 0,
-			"Scale": 2.35,
-			"UnitId": "lava_rock_formation_1"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -33.99119,
-			"PosY": 2.9999998,
-			"PosZ": 48.692352,
-			"RotationY": 0,
-			"Scale": 1.5500001,
-			"UnitId": "lava_rock_formation_1"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -143.53659,
-			"PosY": 3,
-			"PosZ": 64.31731,
-			"RotationY": 0,
-			"Scale": 1.5500001,
-			"UnitId": "lava_rock_formation_1"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -145.08102,
-			"PosY": 3,
-			"PosZ": 67.503944,
-			"RotationY": 0,
-			"Scale": 2.35,
-			"UnitId": "lava_rock_formation_1"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -97.30304,
-			"PosY": 3.0000002,
-			"PosZ": 78.97248,
-			"RotationY": 0,
-			"Scale": 2.35,
-			"UnitId": "lava_rock_formation_1"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -83.91793,
-			"PosY": 3,
-			"PosZ": 79.19612,
-			"RotationY": 0,
-			"Scale": 2.35,
-			"UnitId": "lava_rock_formation_1"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -34.241478,
-			"PosY": 3,
-			"PosZ": 67.6122,
-			"RotationY": 0,
-			"Scale": 1.7500001,
-			"UnitId": "lava_rock_formation_1"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": -33.21987,
-			"PosY": 3,
-			"PosZ": 71.62861,
-			"RotationY": 0,
-			"Scale": 2.35,
-			"UnitId": "lava_rock_formation_1"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 35.38165,
-			"PosY": 3,
-			"PosZ": -94.121414,
-			"RotationY": 0,
-			"Scale": 2,
-			"UnitId": "layered_rock_formation"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 35.98533,
-			"PosY": 3,
-			"PosZ": -98.42988,
-			"RotationY": 0,
-			"Scale": 1.3999997,
-			"UnitId": "layered_rock_formation"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 37.323563,
-			"PosY": 3,
-			"PosZ": -32.336533,
-			"RotationY": 0,
-			"Scale": 2.1,
-			"UnitId": "layered_rock_formation"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 48.58738,
-			"PosY": 3,
-			"PosZ": -65.55325,
-			"RotationY": 0,
-			"Scale": 2,
-			"UnitId": "layered_rock_formation"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 54.23652,
-			"PosY": 3,
-			"PosZ": -108.34559,
-			"RotationY": 0,
-			"Scale": 2,
-			"UnitId": "layered_rock_formation"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 57.197197,
-			"PosY": 3,
-			"PosZ": -107.16657,
-			"RotationY": 0,
-			"Scale": 1.3999999,
-			"UnitId": "layered_rock_formation"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 63.84886,
-			"PosY": 3,
-			"PosZ": -80.060745,
-			"RotationY": 0,
-			"Scale": 2.35,
-			"UnitId": "layered_rock_formation"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 82.8018,
-			"PosY": 3,
-			"PosZ": -80.71546,
-			"RotationY": 0,
-			"Scale": 2,
-			"UnitId": "layered_rock_formation"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 82.525475,
-			"PosY": 3,
-			"PosZ": -65.385765,
-			"RotationY": 0,
-			"Scale": 2,
-			"UnitId": "layered_rock_formation"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 96.30431,
-			"PosY": 3.0000002,
-			"PosZ": -108.448006,
-			"RotationY": 0,
-			"Scale": 2,
-			"UnitId": "layered_rock_formation"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 99.02261,
-			"PosY": 3,
-			"PosZ": -31.019482,
-			"RotationY": 0,
-			"Scale": 2.1,
-			"UnitId": "layered_rock_formation"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 115.80101,
-			"PosY": 3,
-			"PosZ": -93.09995,
-			"RotationY": 0,
-			"Scale": 2,
-			"UnitId": "layered_rock_formation"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 130.61359,
-			"PosY": 3,
-			"PosZ": -65.385765,
-			"RotationY": 0,
-			"Scale": 2,
-			"UnitId": "layered_rock_formation"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 142.8662,
-			"PosY": 3,
-			"PosZ": -92.931885,
-			"RotationY": 0,
-			"Scale": 2,
-			"UnitId": "layered_rock_formation"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 144.75385,
-			"PosY": 3,
-			"PosZ": -97.52313,
-			"RotationY": 0,
-			"Scale": 1.3999997,
-			"UnitId": "layered_rock_formation"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 52.50256,
-			"PosY": 3,
-			"PosZ": -85.806305,
-			"RotationY": 0,
-			"Scale": 2.8500004,
-			"UnitId": "ziggurat_temple"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 56.63537,
-			"PosY": 3,
-			"PosZ": -55.317406,
-			"RotationY": 0,
-			"Scale": 2.8000011,
-			"UnitId": "ziggurat_temple"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 58.203117,
-			"PosY": 3,
-			"PosZ": -117.590416,
-			"RotationY": 0,
-			"Scale": 2.7999992,
-			"UnitId": "ziggurat_temple"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 57.66214,
-			"PosY": 3,
-			"PosZ": -132.00014,
-			"RotationY": 0,
-			"Scale": 2.7999992,
-			"UnitId": "ziggurat_temple"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 90.27539,
-			"PosY": 3,
-			"PosZ": -85.26758,
-			"RotationY": 0,
-			"Scale": 2.8000011,
-			"UnitId": "ziggurat_temple"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 90.16564,
-			"PosY": 3,
-			"PosZ": -58.42474,
-			"RotationY": 0,
-			"Scale": 2.8000011,
-			"UnitId": "ziggurat_temple"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 90.12575,
-			"PosY": 3,
-			"PosZ": -44.44485,
-			"RotationY": 0,
-			"Scale": 2.8000011,
-			"UnitId": "ziggurat_temple"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 90.74706,
-			"PosY": 3,
-			"PosZ": -115.76064,
-			"RotationY": 0,
-			"Scale": 2.8000011,
-			"UnitId": "ziggurat_temple"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 90.20925,
-			"PosY": 3,
-			"PosZ": -128.63727,
-			"RotationY": 0,
-			"Scale": 2.8500004,
-			"UnitId": "ziggurat_temple"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 121.808105,
-			"PosY": 3,
-			"PosZ": -112.93642,
-			"RotationY": 0,
-			"Scale": 2.8000011,
-			"UnitId": "ziggurat_temple"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 123.42421,
-			"PosY": 3,
-			"PosZ": -55.00521,
-			"RotationY": 0,
-			"Scale": 2.8000011,
-			"UnitId": "ziggurat_temple"
-		},
-		{
-			"IsEnemy": false,
-			"Player": 0,
-			"PosX": 125.078255,
-			"PosY": 3,
-			"PosZ": -86.88098,
-			"RotationY": 0,
-			"Scale": 2.8000011,
-			"UnitId": "ziggurat_temple"
-		}
-	],
-	"Vfx": [],
-	"Width": 192
+  "Width": 192,
+  "Depth": 160,
+  "Units": [
+    {
+      "TemplateId": "building/building_001",
+      "PosX": -94.22315,
+      "PosY": 3,
+      "PosZ": -84.746956,
+      "RotationY": 0,
+      "Scale": 5,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "building/building_001",
+      "PosX": -93.52144,
+      "PosY": 3,
+      "PosZ": -55.248215,
+      "RotationY": 0,
+      "Scale": 5,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "building/building_001",
+      "PosX": -64.69885,
+      "PosY": 3,
+      "PosZ": -86.43969,
+      "RotationY": 0,
+      "Scale": 4.05,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "building/building_001",
+      "PosX": -123.132835,
+      "PosY": 3,
+      "PosZ": -60.06087,
+      "RotationY": 0,
+      "Scale": 5,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "building/building_001",
+      "PosX": -95.40515,
+      "PosY": 3,
+      "PosZ": -114.8413,
+      "RotationY": 0,
+      "Scale": 5,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "building/building_001",
+      "PosX": -66.5204,
+      "PosY": 3,
+      "PosZ": -61.344902,
+      "RotationY": 0,
+      "Scale": 5,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "building/building_001",
+      "PosX": -130.4988,
+      "PosY": 3,
+      "PosZ": -87.580605,
+      "RotationY": 0,
+      "Scale": 5,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "building/building_001",
+      "PosX": -93.77395,
+      "PosY": 3,
+      "PosZ": -39.827026,
+      "RotationY": 0,
+      "Scale": 5,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "building/building_001",
+      "PosX": -129.58284,
+      "PosY": 3,
+      "PosZ": -51.239788,
+      "RotationY": 0,
+      "Scale": 5,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "building/building_001",
+      "PosX": -139.99416,
+      "PosY": 3,
+      "PosZ": -84.446754,
+      "RotationY": 0,
+      "Scale": 5,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "building/building_001",
+      "PosX": -52.35337,
+      "PosY": 3,
+      "PosZ": -87.408005,
+      "RotationY": 0,
+      "Scale": 4.05,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "building/building_001",
+      "PosX": -92.51868,
+      "PosY": 3,
+      "PosZ": -125.04679,
+      "RotationY": 0,
+      "Scale": 5,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "building/building_001",
+      "PosX": -63.452908,
+      "PosY": 3,
+      "PosZ": -112.229416,
+      "RotationY": 0,
+      "Scale": 5,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "building/building_001",
+      "PosX": -126.87585,
+      "PosY": 3,
+      "PosZ": -113.98895,
+      "RotationY": 0,
+      "Scale": 5,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "building/building_001",
+      "PosX": -60.003826,
+      "PosY": 3,
+      "PosZ": -51.251507,
+      "RotationY": 0,
+      "Scale": 5,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "building/building_001",
+      "PosX": -127.49095,
+      "PosY": 3,
+      "PosZ": -130.65842,
+      "RotationY": 0,
+      "Scale": 5,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "building/ice_altar",
+      "PosX": 58.832264,
+      "PosY": 3,
+      "PosZ": 17.938194,
+      "RotationY": 0,
+      "Scale": 4.55,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "building/ice_altar",
+      "PosX": 44.89785,
+      "PosY": 3,
+      "PosZ": 62.40175,
+      "RotationY": 0,
+      "Scale": 4.55,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "building/ice_altar",
+      "PosX": 91.7476,
+      "PosY": 3,
+      "PosZ": 16.807472,
+      "RotationY": 0,
+      "Scale": 4.55,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "building/ice_altar",
+      "PosX": 91.611336,
+      "PosY": 3,
+      "PosZ": 59.476162,
+      "RotationY": 0,
+      "Scale": 4.55,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "building/ice_altar",
+      "PosX": 58.735634,
+      "PosY": 3,
+      "PosZ": 96.717094,
+      "RotationY": 0,
+      "Scale": 4.55,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "building/ice_altar",
+      "PosX": 128.58514,
+      "PosY": 3.0000002,
+      "PosZ": 26.9415,
+      "RotationY": 0,
+      "Scale": 4.55,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "building/ice_altar",
+      "PosX": 92.157,
+      "PosY": 3,
+      "PosZ": 104.90192,
+      "RotationY": 0,
+      "Scale": 4.55,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "building/ice_altar",
+      "PosX": 135.73271,
+      "PosY": 3,
+      "PosZ": 58.69438,
+      "RotationY": 0,
+      "Scale": 4.55,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "building/ice_altar",
+      "PosX": 125.71475,
+      "PosY": 3,
+      "PosZ": 98.354065,
+      "RotationY": 0,
+      "Scale": 4.55,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "building/ziggurat_temple",
+      "PosX": 52.50256,
+      "PosY": 3,
+      "PosZ": -85.806305,
+      "RotationY": 0,
+      "Scale": 2.8500004,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "building/ziggurat_temple",
+      "PosX": 56.63537,
+      "PosY": 3,
+      "PosZ": -55.317406,
+      "RotationY": 0,
+      "Scale": 2.8000011,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "building/ziggurat_temple",
+      "PosX": 58.203117,
+      "PosY": 3,
+      "PosZ": -117.590416,
+      "RotationY": 0,
+      "Scale": 2.7999992,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "building/ziggurat_temple",
+      "PosX": 57.66214,
+      "PosY": 3,
+      "PosZ": -132.00014,
+      "RotationY": 0,
+      "Scale": 2.7999992,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "building/ziggurat_temple",
+      "PosX": 90.27539,
+      "PosY": 3,
+      "PosZ": -85.26758,
+      "RotationY": 0,
+      "Scale": 2.8000011,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "building/ziggurat_temple",
+      "PosX": 90.16564,
+      "PosY": 3,
+      "PosZ": -58.42474,
+      "RotationY": 0,
+      "Scale": 2.8000011,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "building/ziggurat_temple",
+      "PosX": 90.12575,
+      "PosY": 3,
+      "PosZ": -44.44485,
+      "RotationY": 0,
+      "Scale": 2.8000011,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "building/ziggurat_temple",
+      "PosX": 90.74706,
+      "PosY": 3,
+      "PosZ": -115.76064,
+      "RotationY": 0,
+      "Scale": 2.8000011,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "building/ziggurat_temple",
+      "PosX": 90.20925,
+      "PosY": 3,
+      "PosZ": -128.63727,
+      "RotationY": 0,
+      "Scale": 2.8500004,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "building/ziggurat_temple",
+      "PosX": 121.808105,
+      "PosY": 3,
+      "PosZ": -112.93642,
+      "RotationY": 0,
+      "Scale": 2.8000011,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "building/ziggurat_temple",
+      "PosX": 123.42421,
+      "PosY": 3,
+      "PosZ": -55.00521,
+      "RotationY": 0,
+      "Scale": 2.8000011,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "building/ziggurat_temple",
+      "PosX": 125.078255,
+      "PosY": 3,
+      "PosZ": -86.88098,
+      "RotationY": 0,
+      "Scale": 2.8000011,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/cactus_plant",
+      "PosX": 35.516693,
+      "PosY": 3,
+      "PosZ": -76.99338,
+      "RotationY": 0,
+      "Scale": 2.35,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/cactus_plant",
+      "PosX": 33.59754,
+      "PosY": 3,
+      "PosZ": -114.48464,
+      "RotationY": 0,
+      "Scale": 2.35,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/cactus_plant",
+      "PosX": 34.283203,
+      "PosY": 3,
+      "PosZ": -116.87322,
+      "RotationY": 0,
+      "Scale": 1.9500002,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/cactus_plant",
+      "PosX": 64.88565,
+      "PosY": 3,
+      "PosZ": -90.13295,
+      "RotationY": 0,
+      "Scale": 1.7500001,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/cactus_plant",
+      "PosX": 65.614494,
+      "PosY": 3,
+      "PosZ": -65.79227,
+      "RotationY": 0,
+      "Scale": 2.35,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/cactus_plant",
+      "PosX": 65.97905,
+      "PosY": 3,
+      "PosZ": -92.30701,
+      "RotationY": 0,
+      "Scale": 2.35,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/cactus_plant",
+      "PosX": 66.97761,
+      "PosY": 3,
+      "PosZ": -63.743877,
+      "RotationY": 0,
+      "Scale": 1.8500001,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/cactus_plant",
+      "PosX": 82.59306,
+      "PosY": 3,
+      "PosZ": -109.10276,
+      "RotationY": 0,
+      "Scale": 2.35,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/cactus_plant",
+      "PosX": 83.34559,
+      "PosY": 3,
+      "PosZ": -107.45397,
+      "RotationY": 0,
+      "Scale": 1.8500001,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/cactus_plant",
+      "PosX": 79.058586,
+      "PosY": 3,
+      "PosZ": -29.30402,
+      "RotationY": 0,
+      "Scale": 2.35,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/cactus_plant",
+      "PosX": 80.35453,
+      "PosY": 3,
+      "PosZ": -31.185555,
+      "RotationY": 0,
+      "Scale": 1.8500001,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/cactus_plant",
+      "PosX": 97.52571,
+      "PosY": 3,
+      "PosZ": -65.27657,
+      "RotationY": 0,
+      "Scale": 2.35,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/cactus_plant",
+      "PosX": 97.728584,
+      "PosY": 3,
+      "PosZ": -62.404552,
+      "RotationY": 0,
+      "Scale": 1.7500001,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/cactus_plant",
+      "PosX": 112.60304,
+      "PosY": 3,
+      "PosZ": -101.64936,
+      "RotationY": 0,
+      "Scale": 2.35,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/cactus_plant",
+      "PosX": 113.93677,
+      "PosY": 3,
+      "PosZ": -79.99944,
+      "RotationY": 0,
+      "Scale": 1.7500001,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/cactus_plant",
+      "PosX": 114.332405,
+      "PosY": 3,
+      "PosZ": -65.14982,
+      "RotationY": 0,
+      "Scale": 2.35,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/cactus_plant",
+      "PosX": 115.0821,
+      "PosY": 3,
+      "PosZ": -82.44101,
+      "RotationY": 0,
+      "Scale": 2.35,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/cactus_plant",
+      "PosX": 114.55658,
+      "PosY": 3,
+      "PosZ": -62.106205,
+      "RotationY": 0,
+      "Scale": 1.9500002,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/cactus_plant",
+      "PosX": 114.0977,
+      "PosY": 3,
+      "PosZ": -106.448204,
+      "RotationY": 0,
+      "Scale": 2.35,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/cactus_plant",
+      "PosX": 142.86136,
+      "PosY": 3,
+      "PosZ": -81.95452,
+      "RotationY": 0,
+      "Scale": 2.35,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/cactus_plant",
+      "PosX": 144.28598,
+      "PosY": 3,
+      "PosZ": -79.13742,
+      "RotationY": 0,
+      "Scale": 1.9500002,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/cactus_plant",
+      "PosX": 140.66658,
+      "PosY": 3,
+      "PosZ": -26.82254,
+      "RotationY": 0,
+      "Scale": 2.35,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/cactus_plant",
+      "PosX": 144.12106,
+      "PosY": 3,
+      "PosZ": -30.611032,
+      "RotationY": 0,
+      "Scale": 2.35,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/crystal_cluster_18",
+      "PosX": 38.77342,
+      "PosY": 3,
+      "PosZ": 40.059944,
+      "RotationY": 0,
+      "Scale": 2.3,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/crystal_cluster_18",
+      "PosX": 55.02938,
+      "PosY": 3,
+      "PosZ": 40.17362,
+      "RotationY": 0,
+      "Scale": 2.3,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/crystal_cluster_18",
+      "PosX": 63.617756,
+      "PosY": 3,
+      "PosZ": 37.610172,
+      "RotationY": 0,
+      "Scale": 2.3,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/crystal_cluster_18",
+      "PosX": 38.659744,
+      "PosY": 3,
+      "PosZ": 71.8898,
+      "RotationY": 0,
+      "Scale": 2.3,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/crystal_cluster_18",
+      "PosX": 85.85306,
+      "PosY": 3,
+      "PosZ": 38.679996,
+      "RotationY": 0,
+      "Scale": 2.3,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/crystal_cluster_18",
+      "PosX": 51.16433,
+      "PosY": 3,
+      "PosZ": 81.097725,
+      "RotationY": 0,
+      "Scale": 2.3,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/crystal_cluster_18",
+      "PosX": 68.32971,
+      "PosY": 3,
+      "PosZ": 67.00165,
+      "RotationY": 0,
+      "Scale": 2.3,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/crystal_cluster_18",
+      "PosX": 98.167465,
+      "PosY": 3,
+      "PosZ": 39.007324,
+      "RotationY": 0,
+      "Scale": 2.6,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/crystal_cluster_18",
+      "PosX": 38.091347,
+      "PosY": 3,
+      "PosZ": 113.3823,
+      "RotationY": 0,
+      "Scale": 2.3,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/crystal_cluster_18",
+      "PosX": 98.818184,
+      "PosY": 3,
+      "PosZ": 64.73377,
+      "RotationY": 0,
+      "Scale": 2.8999996,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/crystal_cluster_18",
+      "PosX": 115.84715,
+      "PosY": 3,
+      "PosZ": 39.491554,
+      "RotationY": 0,
+      "Scale": 2.3,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/crystal_cluster_18",
+      "PosX": 86.202965,
+      "PosY": 3,
+      "PosZ": 81.98188,
+      "RotationY": 0,
+      "Scale": 2.900001,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/crystal_cluster_18",
+      "PosX": 97.78941,
+      "PosY": 3,
+      "PosZ": 81.55244,
+      "RotationY": 0,
+      "Scale": 3.2999992,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/crystal_cluster_18",
+      "PosX": 147.7907,
+      "PosY": 3,
+      "PosZ": 42.44718,
+      "RotationY": 0,
+      "Scale": 2.3,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/crystal_cluster_18",
+      "PosX": 147.60864,
+      "PosY": 3,
+      "PosZ": 47.178265,
+      "RotationY": 0,
+      "Scale": 2.3,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/crystal_cluster_18",
+      "PosX": 133.58093,
+      "PosY": 3,
+      "PosZ": 78.824165,
+      "RotationY": 0,
+      "Scale": 2.3,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/crystal_cluster_18",
+      "PosX": 147.79529,
+      "PosY": 3,
+      "PosZ": 69.16341,
+      "RotationY": 0,
+      "Scale": 2.3,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/crystal_cluster_18",
+      "PosX": 147.1228,
+      "PosY": 3,
+      "PosZ": 83.073616,
+      "RotationY": 0,
+      "Scale": 2.3,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/lava_pillar",
+      "PosX": -97.42801,
+      "PosY": 3,
+      "PosZ": 8.412226,
+      "RotationY": 0,
+      "Scale": 3.2000008,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/lava_pillar",
+      "PosX": -118.77095,
+      "PosY": 3,
+      "PosZ": 8.460721,
+      "RotationY": 0,
+      "Scale": 3.2000008,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/lava_pillar",
+      "PosX": -128.72256,
+      "PosY": 3,
+      "PosZ": 8.053385,
+      "RotationY": 0,
+      "Scale": 3.3000007,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/lava_pillar",
+      "PosX": -143.38792,
+      "PosY": 3,
+      "PosZ": 8.0533905,
+      "RotationY": 0,
+      "Scale": 3.3000007,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/lava_rock_formation_1",
+      "PosX": -96.51033,
+      "PosY": 3,
+      "PosZ": 36.31459,
+      "RotationY": 0,
+      "Scale": 2.35,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/lava_rock_formation_1",
+      "PosX": -83.24883,
+      "PosY": 3,
+      "PosZ": 37.3152,
+      "RotationY": 0,
+      "Scale": 2.35,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/lava_rock_formation_1",
+      "PosX": -145.15895,
+      "PosY": 3,
+      "PosZ": 41.281322,
+      "RotationY": 0,
+      "Scale": 2.35,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/lava_rock_formation_1",
+      "PosX": -143.61401,
+      "PosY": 3,
+      "PosZ": 44.513565,
+      "RotationY": 0,
+      "Scale": 1.5500001,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/lava_rock_formation_1",
+      "PosX": -33.40343,
+      "PosY": 3,
+      "PosZ": 44.70782,
+      "RotationY": 0,
+      "Scale": 2.35,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/lava_rock_formation_1",
+      "PosX": -33.99119,
+      "PosY": 2.9999998,
+      "PosZ": 48.692352,
+      "RotationY": 0,
+      "Scale": 1.5500001,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/lava_rock_formation_1",
+      "PosX": -143.53659,
+      "PosY": 3,
+      "PosZ": 64.31731,
+      "RotationY": 0,
+      "Scale": 1.5500001,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/lava_rock_formation_1",
+      "PosX": -145.08102,
+      "PosY": 3,
+      "PosZ": 67.503944,
+      "RotationY": 0,
+      "Scale": 2.35,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/lava_rock_formation_1",
+      "PosX": -97.30304,
+      "PosY": 3.0000002,
+      "PosZ": 78.97248,
+      "RotationY": 0,
+      "Scale": 2.35,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/lava_rock_formation_1",
+      "PosX": -83.91793,
+      "PosY": 3,
+      "PosZ": 79.19612,
+      "RotationY": 0,
+      "Scale": 2.35,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/lava_rock_formation_1",
+      "PosX": -34.241478,
+      "PosY": 3,
+      "PosZ": 67.6122,
+      "RotationY": 0,
+      "Scale": 1.7500001,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/lava_rock_formation_1",
+      "PosX": -33.21987,
+      "PosY": 3,
+      "PosZ": 71.62861,
+      "RotationY": 0,
+      "Scale": 2.35,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/layered_rock_formation",
+      "PosX": 35.38165,
+      "PosY": 3,
+      "PosZ": -94.121414,
+      "RotationY": 0,
+      "Scale": 2,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/layered_rock_formation",
+      "PosX": 35.98533,
+      "PosY": 3,
+      "PosZ": -98.42988,
+      "RotationY": 0,
+      "Scale": 1.3999997,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/layered_rock_formation",
+      "PosX": 37.323563,
+      "PosY": 3,
+      "PosZ": -32.336533,
+      "RotationY": 0,
+      "Scale": 2.1,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/layered_rock_formation",
+      "PosX": 48.58738,
+      "PosY": 3,
+      "PosZ": -65.55325,
+      "RotationY": 0,
+      "Scale": 2,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/layered_rock_formation",
+      "PosX": 54.23652,
+      "PosY": 3,
+      "PosZ": -108.34559,
+      "RotationY": 0,
+      "Scale": 2,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/layered_rock_formation",
+      "PosX": 57.197197,
+      "PosY": 3,
+      "PosZ": -107.16657,
+      "RotationY": 0,
+      "Scale": 1.3999999,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/layered_rock_formation",
+      "PosX": 63.84886,
+      "PosY": 3,
+      "PosZ": -80.060745,
+      "RotationY": 0,
+      "Scale": 2.35,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/layered_rock_formation",
+      "PosX": 82.8018,
+      "PosY": 3,
+      "PosZ": -80.71546,
+      "RotationY": 0,
+      "Scale": 2,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/layered_rock_formation",
+      "PosX": 82.525475,
+      "PosY": 3,
+      "PosZ": -65.385765,
+      "RotationY": 0,
+      "Scale": 2,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/layered_rock_formation",
+      "PosX": 96.30431,
+      "PosY": 3.0000002,
+      "PosZ": -108.448006,
+      "RotationY": 0,
+      "Scale": 2,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/layered_rock_formation",
+      "PosX": 99.02261,
+      "PosY": 3,
+      "PosZ": -31.019482,
+      "RotationY": 0,
+      "Scale": 2.1,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/layered_rock_formation",
+      "PosX": 115.80101,
+      "PosY": 3,
+      "PosZ": -93.09995,
+      "RotationY": 0,
+      "Scale": 2,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/layered_rock_formation",
+      "PosX": 130.61359,
+      "PosY": 3,
+      "PosZ": -65.385765,
+      "RotationY": 0,
+      "Scale": 2,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/layered_rock_formation",
+      "PosX": 142.8662,
+      "PosY": 3,
+      "PosZ": -92.931885,
+      "RotationY": 0,
+      "Scale": 2,
+      "IsEnemy": false,
+      "Player": 0
+    },
+    {
+      "TemplateId": "unit/layered_rock_formation",
+      "PosX": 144.75385,
+      "PosY": 3,
+      "PosZ": -97.52313,
+      "RotationY": 0,
+      "Scale": 1.3999997,
+      "IsEnemy": false,
+      "Player": 0
+    }
+  ],
+  "Props": [
+    {
+      "TemplateId": "prop/crystal_ore_1",
+      "PosX": -100.168175,
+      "PosY": 3,
+      "PosZ": -64.267395,
+      "RotationY": 0,
+      "Scale": 1.95
+    },
+    {
+      "TemplateId": "prop/crystal_ore_1",
+      "PosX": -86.85847,
+      "PosY": 3,
+      "PosZ": -65.01515,
+      "RotationY": 0,
+      "Scale": 1.95
+    },
+    {
+      "TemplateId": "prop/crystal_ore_1",
+      "PosX": -121.207596,
+      "PosY": 3,
+      "PosZ": -91.54673,
+      "RotationY": 0,
+      "Scale": 1.95
+    },
+    {
+      "TemplateId": "prop/crystal_ore_1",
+      "PosX": -99.733986,
+      "PosY": 3,
+      "PosZ": -108.14511,
+      "RotationY": 0,
+      "Scale": 1.95
+    },
+    {
+      "TemplateId": "prop/crystal_ore_1",
+      "PosX": -88.57984,
+      "PosY": 3,
+      "PosZ": -108.22139,
+      "RotationY": 0,
+      "Scale": 1.95
+    },
+    {
+      "TemplateId": "prop/crystal_ore_1",
+      "PosX": -68.49667,
+      "PosY": 3,
+      "PosZ": -106.29335,
+      "RotationY": 0,
+      "Scale": 1.95
+    },
+    {
+      "TemplateId": "prop/crystal_ore_1",
+      "PosX": -54.982105,
+      "PosY": 3,
+      "PosZ": -106.81511,
+      "RotationY": 0,
+      "Scale": 1.95
+    },
+    {
+      "TemplateId": "prop/crystal_ore_1",
+      "PosX": -102.11948,
+      "PosY": 3.0000002,
+      "PosZ": -31.24697,
+      "RotationY": 0,
+      "Scale": 1.55
+    },
+    {
+      "TemplateId": "prop/crystal_ore_1",
+      "PosX": -85.685135,
+      "PosY": 3.0000002,
+      "PosZ": -31.862326,
+      "RotationY": 0,
+      "Scale": 1.4499999
+    },
+    {
+      "TemplateId": "prop/crystal_ore_1",
+      "PosX": -145.65096,
+      "PosY": 3,
+      "PosZ": -80.507614,
+      "RotationY": 0,
+      "Scale": 1.55
+    },
+    {
+      "TemplateId": "prop/crystal_ore_1",
+      "PosX": -105.07528,
+      "PosY": 3,
+      "PosZ": -28.153194,
+      "RotationY": 0,
+      "Scale": 1.95
+    },
+    {
+      "TemplateId": "prop/crystal_ore_1",
+      "PosX": -83.22848,
+      "PosY": 3,
+      "PosZ": -28.795168,
+      "RotationY": 0,
+      "Scale": 1.95
+    },
+    {
+      "TemplateId": "prop/crystal_ore_1",
+      "PosX": -149.56192,
+      "PosY": 3,
+      "PosZ": -77.60265,
+      "RotationY": 0,
+      "Scale": 1.95
+    },
+    {
+      "TemplateId": "prop/crystal_ore_1",
+      "PosX": -148.34248,
+      "PosY": 3,
+      "PosZ": -95.44671,
+      "RotationY": 0,
+      "Scale": 1.95
+    },
+    {
+      "TemplateId": "prop/crystal_ore_1",
+      "PosX": -39.596394,
+      "PosY": 3,
+      "PosZ": -80.694,
+      "RotationY": 0,
+      "Scale": 1.3499999
+    },
+    {
+      "TemplateId": "prop/crystal_ore_1",
+      "PosX": -150.55135,
+      "PosY": 3,
+      "PosZ": -98.76779,
+      "RotationY": 0,
+      "Scale": 1.95
+    },
+    {
+      "TemplateId": "prop/crystal_ore_1",
+      "PosX": -39.392227,
+      "PosY": 3,
+      "PosZ": -93.93994,
+      "RotationY": 0,
+      "Scale": 1.4499999
+    },
+    {
+      "TemplateId": "prop/crystal_ore_1",
+      "PosX": -37.569233,
+      "PosY": 3,
+      "PosZ": -78.66895,
+      "RotationY": 0,
+      "Scale": 1.95
+    },
+    {
+      "TemplateId": "prop/crystal_ore_1",
+      "PosX": -37.817947,
+      "PosY": 3,
+      "PosZ": -97.331505,
+      "RotationY": 0,
+      "Scale": 1.95
+    },
+    {
+      "TemplateId": "prop/crystal_ore_1",
+      "PosX": -145.16852,
+      "PosY": 3,
+      "PosZ": -28.863712,
+      "RotationY": 0,
+      "Scale": 1.95
+    },
+    {
+      "TemplateId": "prop/crystal_ore_1",
+      "PosX": -148.38196,
+      "PosY": 3,
+      "PosZ": -31.419573,
+      "RotationY": 0,
+      "Scale": 1.3499999
+    },
+    {
+      "TemplateId": "prop/crystal_ore_1",
+      "PosX": -42.35206,
+      "PosY": 3,
+      "PosZ": -28.294779,
+      "RotationY": 0,
+      "Scale": 1.95
+    },
+    {
+      "TemplateId": "prop/crystal_ore_1",
+      "PosX": -39.71196,
+      "PosY": 3,
+      "PosZ": -31.056522,
+      "RotationY": 0,
+      "Scale": 1.4499999
+    },
+    {
+      "TemplateId": "prop/ice_pillar",
+      "PosX": 37.033764,
+      "PosY": 3,
+      "PosZ": 10.472433,
+      "RotationY": 0,
+      "Scale": 4.55
+    },
+    {
+      "TemplateId": "prop/ice_pillar",
+      "PosX": 53.20256,
+      "PosY": 3,
+      "PosZ": 10.466907,
+      "RotationY": 0,
+      "Scale": 4.55
+    },
+    {
+      "TemplateId": "prop/ice_pillar",
+      "PosX": 65.89145,
+      "PosY": 3,
+      "PosZ": 9.997614,
+      "RotationY": 0,
+      "Scale": 4.55
+    },
+    {
+      "TemplateId": "prop/ice_pillar",
+      "PosX": 81.99877,
+      "PosY": 3,
+      "PosZ": 9.121156,
+      "RotationY": 0,
+      "Scale": 4.55
+    },
+    {
+      "TemplateId": "prop/ice_tower_1",
+      "PosX": 59.063286,
+      "PosY": 3,
+      "PosZ": 30.77689,
+      "RotationY": 0,
+      "Scale": 4.55
+    },
+    {
+      "TemplateId": "prop/ice_tower_1",
+      "PosX": 58.982445,
+      "PosY": 3,
+      "PosZ": 59.82126,
+      "RotationY": 0,
+      "Scale": 4.55
+    },
+    {
+      "TemplateId": "prop/ice_tower_1",
+      "PosX": 91.64586,
+      "PosY": 3,
+      "PosZ": 31.41296,
+      "RotationY": 0,
+      "Scale": 4.55
+    },
+    {
+      "TemplateId": "prop/ice_tower_1",
+      "PosX": 62.21563,
+      "PosY": 3,
+      "PosZ": 85.27525,
+      "RotationY": 0,
+      "Scale": 4.55
+    },
+    {
+      "TemplateId": "prop/ice_tower_1",
+      "PosX": 122.25553,
+      "PosY": 3.0000002,
+      "PosZ": 34.641388,
+      "RotationY": 0,
+      "Scale": 4.55
+    },
+    {
+      "TemplateId": "prop/ice_tower_1",
+      "PosX": 91.630554,
+      "PosY": 3,
+      "PosZ": 89.42999,
+      "RotationY": 0,
+      "Scale": 4.55
+    },
+    {
+      "TemplateId": "prop/ice_tower_1",
+      "PosX": 120.22808,
+      "PosY": 3,
+      "PosZ": 60.07825,
+      "RotationY": 0,
+      "Scale": 4.55
+    },
+    {
+      "TemplateId": "prop/ice_tower_1",
+      "PosX": 124.44199,
+      "PosY": 2.9999998,
+      "PosZ": 86.870346,
+      "RotationY": 0,
+      "Scale": 4.55
+    },
+    {
+      "TemplateId": "prop/obelisk_monolith",
+      "PosX": 36.732567,
+      "PosY": 3,
+      "PosZ": -136.68616,
+      "RotationY": 0,
+      "Scale": 2.5499997
+    },
+    {
+      "TemplateId": "prop/obelisk_monolith",
+      "PosX": 50.4974,
+      "PosY": 3,
+      "PosZ": -136.37016,
+      "RotationY": 0,
+      "Scale": 2.5499997
+    },
+    {
+      "TemplateId": "prop/obelisk_monolith",
+      "PosX": 65.33505,
+      "PosY": 3,
+      "PosZ": -136.76189,
+      "RotationY": 0,
+      "Scale": 2.5499997
+    },
+    {
+      "TemplateId": "prop/obelisk_monolith",
+      "PosX": 80.65245,
+      "PosY": 3,
+      "PosZ": -136.73077,
+      "RotationY": 0,
+      "Scale": 2.5499997
+    },
+    {
+      "TemplateId": "prop/skull_altar",
+      "PosX": -118.42005,
+      "PosY": 3,
+      "PosZ": 37.745316,
+      "RotationY": 0,
+      "Scale": 1.25
+    },
+    {
+      "TemplateId": "prop/skull_altar",
+      "PosX": -127.05495,
+      "PosY": 3,
+      "PosZ": 37.861107,
+      "RotationY": 0,
+      "Scale": 1.25
+    },
+    {
+      "TemplateId": "prop/skull_altar",
+      "PosX": -67.80646,
+      "PosY": 3,
+      "PosZ": 39.334892,
+      "RotationY": 0,
+      "Scale": 1.25
+    },
+    {
+      "TemplateId": "prop/skull_altar",
+      "PosX": -49.92204,
+      "PosY": 3,
+      "PosZ": 39.636475,
+      "RotationY": 0,
+      "Scale": 1.25
+    },
+    {
+      "TemplateId": "prop/skull_altar",
+      "PosX": -97.469124,
+      "PosY": 3,
+      "PosZ": 52.058414,
+      "RotationY": 0,
+      "Scale": 1.25
+    },
+    {
+      "TemplateId": "prop/skull_altar",
+      "PosX": -82.4685,
+      "PosY": 3,
+      "PosZ": 52.496128,
+      "RotationY": 0,
+      "Scale": 1.25
+    },
+    {
+      "TemplateId": "prop/skull_altar",
+      "PosX": -114.38106,
+      "PosY": 3,
+      "PosZ": 52.490276,
+      "RotationY": 0,
+      "Scale": 1.25
+    },
+    {
+      "TemplateId": "prop/skull_altar",
+      "PosX": -98.21127,
+      "PosY": 3,
+      "PosZ": 64.26366,
+      "RotationY": 0,
+      "Scale": 1.25
+    },
+    {
+      "TemplateId": "prop/skull_altar",
+      "PosX": -82.28148,
+      "PosY": 3.0000002,
+      "PosZ": 64.01006,
+      "RotationY": 0,
+      "Scale": 1.25
+    },
+    {
+      "TemplateId": "prop/skull_altar",
+      "PosX": -114.28063,
+      "PosY": 3,
+      "PosZ": 64.14347,
+      "RotationY": 0,
+      "Scale": 1.25
+    },
+    {
+      "TemplateId": "prop/tower",
+      "PosX": -91.14392,
+      "PosY": 3,
+      "PosZ": 24.781992,
+      "RotationY": 0,
+      "Scale": 5
+    },
+    {
+      "TemplateId": "prop/tower",
+      "PosX": -123.253815,
+      "PosY": 3,
+      "PosZ": 26.346853,
+      "RotationY": 0,
+      "Scale": 5
+    },
+    {
+      "TemplateId": "prop/tower",
+      "PosX": -58.532475,
+      "PosY": 3,
+      "PosZ": 30.994259,
+      "RotationY": 0,
+      "Scale": 5
+    },
+    {
+      "TemplateId": "prop/tower",
+      "PosX": -88.91468,
+      "PosY": 3,
+      "PosZ": 57.83718,
+      "RotationY": 0,
+      "Scale": 5
+    },
+    {
+      "TemplateId": "prop/tower",
+      "PosX": -123.09792,
+      "PosY": 3,
+      "PosZ": 57.831078,
+      "RotationY": 0,
+      "Scale": 5
+    },
+    {
+      "TemplateId": "prop/tower",
+      "PosX": -59.694305,
+      "PosY": 3,
+      "PosZ": 58.505104,
+      "RotationY": 0,
+      "Scale": 5
+    },
+    {
+      "TemplateId": "prop/tower",
+      "PosX": -134.66382,
+      "PosY": 3,
+      "PosZ": 58.15563,
+      "RotationY": 0,
+      "Scale": 5
+    },
+    {
+      "TemplateId": "prop/tower",
+      "PosX": -45.870636,
+      "PosY": 3,
+      "PosZ": 58.445698,
+      "RotationY": 0,
+      "Scale": 5
+    },
+    {
+      "TemplateId": "prop/tower",
+      "PosX": -124.82661,
+      "PosY": 3,
+      "PosZ": 82.055885,
+      "RotationY": 0,
+      "Scale": 5
+    },
+    {
+      "TemplateId": "prop/tower",
+      "PosX": -90.31635,
+      "PosY": 3,
+      "PosZ": 85.04404,
+      "RotationY": 0,
+      "Scale": 5
+    },
+    {
+      "TemplateId": "prop/tower",
+      "PosX": -56.7836,
+      "PosY": 3,
+      "PosZ": 82.50947,
+      "RotationY": 0,
+      "Scale": 5
+    },
+    {
+      "TemplateId": "prop/tower",
+      "PosX": -123.45726,
+      "PosY": 3,
+      "PosZ": 93.257095,
+      "RotationY": 0,
+      "Scale": 5
+    },
+    {
+      "TemplateId": "prop/tower",
+      "PosX": -57.700092,
+      "PosY": 3,
+      "PosZ": 93.982155,
+      "RotationY": 0,
+      "Scale": 5
+    },
+    {
+      "TemplateId": "prop/tower",
+      "PosX": -90.35937,
+      "PosY": 3,
+      "PosZ": 100.86251,
+      "RotationY": 0,
+      "Scale": 5
+    }
+  ],
+  "Decals": [],
+  "Vfx": [],
+  "CameraBoundsLeft": -159,
+  "CameraBoundsRight": 159,
+  "CameraBoundsTop": -127,
+  "CameraBoundsBottom": 157,
+  "SkyboxPath": "Assets/skyboxes/jade_shrine.png",
+  "Coordinates": []
 }
