@@ -31,7 +31,11 @@
     "PlayerSlots": null,
     "Teams": null,
     "Tags": null,
-    "MapType": null
+    "MapType": null,
+    "TestAiPlayerCount": null,
+    "TestRandomizeSlots": null,
+    "TestRandomSeed": null,
+    "MaxTestPlayers": null
   },
   "Dependencies": [],
   "Templates": {
@@ -109,12 +113,16 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       },
       {
         "TemplateID": "unit/barrel_with_tools",
@@ -189,12 +197,16 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       },
       {
         "TemplateID": "unit/stone_watchtower_5",
@@ -269,12 +281,16 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       },
       {
         "TemplateID": "unit/wooden_box",
@@ -349,12 +365,16 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       },
       {
         "TemplateID": "unit/wooden_crate",
@@ -429,12 +449,16 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       },
       {
         "TemplateID": "unit/cactus_plant",
@@ -509,12 +533,16 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       },
       {
         "TemplateID": "unit/crystal_cluster_18",
@@ -589,12 +617,16 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       },
       {
         "TemplateID": "unit/crystal_pedestal",
@@ -669,12 +701,16 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       },
       {
         "TemplateID": "unit/lava_pillar",
@@ -749,12 +785,16 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       },
       {
         "TemplateID": "unit/lava_rock_formation_1",
@@ -829,12 +869,16 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       },
       {
         "TemplateID": "unit/layered_rock_formation",
@@ -909,12 +953,16 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       },
       {
         "TemplateID": "unit/mystic_altar_statue",
@@ -989,12 +1037,16 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       },
       {
         "TemplateID": "unit/obelisk_3d_model",
@@ -1069,12 +1121,16 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       },
       {
         "TemplateID": "unit/ritual_altar",
@@ -1149,12 +1205,16 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       },
       {
         "TemplateID": "unit/skull_altar",
@@ -1229,12 +1289,16 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       },
       {
         "TemplateID": "unit/tower",
@@ -1309,12 +1373,16 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       },
       {
         "TemplateID": "unit/stone_pyramid",
@@ -1389,12 +1457,16 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       },
       {
         "TemplateID": "unit/pyramid_temple",
@@ -1469,12 +1541,16 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       },
       {
         "TemplateID": "unit/mechanical_knight",
@@ -1549,12 +1625,16 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       },
       {
         "TemplateID": "unit/ice_warrior_scout",
@@ -1629,12 +1709,16 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       },
       {
         "TemplateID": "unit/dark_knight_armor",
@@ -1709,12 +1793,16 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       },
       {
         "TemplateID": "unit/fantasy_cottage",
@@ -1789,12 +1877,16 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       },
       {
         "TemplateID": "unit/fantasy_warrior_unit_1",
@@ -1891,12 +1983,16 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       },
       {
         "TemplateID": "unit/moba_minion_team1",
@@ -1993,12 +2089,16 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       },
       {
         "TemplateID": "unit/moba_minion_team2",
@@ -2095,12 +2195,16 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       },
       {
         "TemplateID": "unit/orc_warrior_7",
@@ -2197,12 +2301,16 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       },
       {
         "TemplateID": "unit/warrior_armor",
@@ -2277,12 +2385,16 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       }
     ],
     "Buildings": [
@@ -2359,12 +2471,16 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       },
       {
         "TemplateID": "building/building_001",
@@ -2423,7 +2539,7 @@
         "Brightness": 0.5,
         "Tint": null,
         "NormalizeLuminance": true,
-        "IgnorePlayerColor": true,
+        "IgnorePlayerColor": false,
         "DespillPlayerColor": true,
         "BuildOptions": null,
         "IsHero": false,
@@ -2439,12 +2555,16 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       },
       {
         "TemplateID": "building/cactus_plant_1",
@@ -2519,12 +2639,16 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       },
       {
         "TemplateID": "building/castle_gate_tower",
@@ -2599,12 +2723,16 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       },
       {
         "TemplateID": "building/fantasy_archway",
@@ -2679,12 +2807,16 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       },
       {
         "TemplateID": "building/fantasy_castle",
@@ -2759,12 +2891,16 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       },
       {
         "TemplateID": "building/fantasy_cottage",
@@ -2839,12 +2975,16 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       },
       {
         "TemplateID": "building/fantasy_tower",
@@ -2919,12 +3059,16 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       },
       {
         "TemplateID": "building/fantasy_tower_1",
@@ -2999,12 +3143,16 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       },
       {
         "TemplateID": "building/fortified_tower",
@@ -3079,12 +3227,16 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       },
       {
         "TemplateID": "building/ice_altar",
@@ -3159,12 +3311,16 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       },
       {
         "TemplateID": "building/ice_castle_1",
@@ -3239,12 +3395,16 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       },
       {
         "TemplateID": "building/lighthouse_tower",
@@ -3319,12 +3479,16 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       },
       {
         "TemplateID": "building/skull_archway",
@@ -3399,12 +3563,16 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       },
       {
         "TemplateID": "building/stone_arch_gate_1",
@@ -3479,12 +3647,16 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       },
       {
         "TemplateID": "building/stone_fortification_gate",
@@ -3559,12 +3731,16 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       },
       {
         "TemplateID": "building/stone_gate_arch",
@@ -3639,12 +3815,16 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       },
       {
         "TemplateID": "building/stone_watch_tower",
@@ -3719,12 +3899,16 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       },
       {
         "TemplateID": "building/timber_framed_house",
@@ -3799,12 +3983,16 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       },
       {
         "TemplateID": "building/treehouse_structure",
@@ -3879,12 +4067,16 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       },
       {
         "TemplateID": "building/ziggurat_temple",
@@ -3959,12 +4151,16 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       },
       {
         "TemplateID": "building/fantasy_castle_tower_1",
@@ -4039,12 +4235,16 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       },
       {
         "TemplateID": "building/golden_temple",
@@ -4119,12 +4319,16 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       },
       {
         "TemplateID": "building/low_poly_spiked_beast",
@@ -4199,12 +4403,16 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       },
       {
         "TemplateID": "building/heavy_mortar_cannon",
@@ -4279,12 +4487,16 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       },
       {
         "TemplateID": "building/tower_cyberpunk",
@@ -4359,27 +4571,31 @@
         "ObjectAttachments": null,
         "Sounds": null,
         "StartingItems": null,
+        "ShopItems": null,
         "Upgrades": null,
         "StatusEffects": null,
         "SoundEvents": null,
         "SpawnShader": null,
         "DeathShader": null,
-        "DespawnShader": null
+        "ProceduralAnimation": null,
+        "EnableProceduralAnimation": null,
+        "DespawnShader": null,
+        "ConstructionRange": 4
       }
     ],
     "Resources": [
       {
+        "MaxCapacity": 0,
+        "HarvestRate": 0,
+        "GrowthRate": 0,
+        "MaxWorkers": 0,
+        "Scale": 2.75,
         "TemplateID": "resource/birch_tree",
         "Name": "birch_tree",
         "Description": "",
         "ModelPath": "birch_tree.rmesh",
         "PortraitModelPath": null,
         "VisualMode": "Mesh",
-        "MaxCapacity": 0,
-        "HarvestRate": 0,
-        "GrowthRate": 0,
-        "MaxWorkers": 0,
-        "Scale": 2.75,
         "YOffset": 0,
         "CollisionCircle": 0,
         "Brightness": 0.5,
@@ -4393,17 +4609,17 @@
         "DespawnShader": null
       },
       {
+        "MaxCapacity": 0,
+        "HarvestRate": 0,
+        "GrowthRate": 0,
+        "MaxWorkers": 0,
+        "Scale": 2.75,
         "TemplateID": "resource/bush",
         "Name": "bush",
         "Description": "",
         "ModelPath": "bush.rmesh",
         "PortraitModelPath": null,
         "VisualMode": "Mesh",
-        "MaxCapacity": 0,
-        "HarvestRate": 0,
-        "GrowthRate": 0,
-        "MaxWorkers": 0,
-        "Scale": 2.75,
         "YOffset": 0,
         "CollisionCircle": 0,
         "Brightness": 0.5,
@@ -4417,17 +4633,17 @@
         "DespawnShader": null
       },
       {
+        "MaxCapacity": 0,
+        "HarvestRate": 0,
+        "GrowthRate": 0,
+        "MaxWorkers": 0,
+        "Scale": 2.75,
         "TemplateID": "resource/cattail_plant",
         "Name": "cattail_plant",
         "Description": "",
         "ModelPath": "cattail_plant.rmesh",
         "PortraitModelPath": null,
         "VisualMode": "Mesh",
-        "MaxCapacity": 0,
-        "HarvestRate": 0,
-        "GrowthRate": 0,
-        "MaxWorkers": 0,
-        "Scale": 2.75,
         "YOffset": 1.4500002,
         "CollisionCircle": 1,
         "Brightness": 0.5,
@@ -4441,17 +4657,17 @@
         "DespawnShader": null
       },
       {
+        "MaxCapacity": 0,
+        "HarvestRate": 0,
+        "GrowthRate": 0,
+        "MaxWorkers": 0,
+        "Scale": 2.75,
         "TemplateID": "resource/coniferous_tree_2",
         "Name": "coniferous_tree_2",
         "Description": "",
         "ModelPath": "coniferous_tree_2.rmesh",
         "PortraitModelPath": null,
         "VisualMode": "Mesh",
-        "MaxCapacity": 0,
-        "HarvestRate": 0,
-        "GrowthRate": 0,
-        "MaxWorkers": 0,
-        "Scale": 2.75,
         "YOffset": 2.0500002,
         "CollisionCircle": 0.3,
         "Brightness": 0.38,
@@ -4465,17 +4681,17 @@
         "DespawnShader": null
       },
       {
+        "MaxCapacity": 0,
+        "HarvestRate": 0,
+        "GrowthRate": 0,
+        "MaxWorkers": 0,
+        "Scale": 2.75,
         "TemplateID": "resource/crystal_tree",
         "Name": "crystal_tree",
         "Description": "",
         "ModelPath": "crystal_tree.rmesh",
         "PortraitModelPath": null,
         "VisualMode": "Mesh",
-        "MaxCapacity": 0,
-        "HarvestRate": 0,
-        "GrowthRate": 0,
-        "MaxWorkers": 0,
-        "Scale": 2.75,
         "YOffset": 0,
         "CollisionCircle": 0,
         "Brightness": 0.37,
@@ -4489,17 +4705,17 @@
         "DespawnShader": null
       },
       {
+        "MaxCapacity": 0,
+        "HarvestRate": 0,
+        "GrowthRate": 0,
+        "MaxWorkers": 0,
+        "Scale": 2.75,
         "TemplateID": "resource/mossy_rock_ore",
         "Name": "mossy_rock_ore",
         "Description": "",
         "ModelPath": "mossy_rock_ore.rmesh",
         "PortraitModelPath": null,
         "VisualMode": "Mesh",
-        "MaxCapacity": 0,
-        "HarvestRate": 0,
-        "GrowthRate": 0,
-        "MaxWorkers": 0,
-        "Scale": 2.75,
         "YOffset": 1.8500001,
         "CollisionCircle": 0.55,
         "Brightness": 0.7,
@@ -4513,17 +4729,17 @@
         "DespawnShader": null
       },
       {
+        "MaxCapacity": 0,
+        "HarvestRate": 0,
+        "GrowthRate": 0,
+        "MaxWorkers": 0,
+        "Scale": 2.75,
         "TemplateID": "resource/palm_tree",
         "Name": "Palm Tree",
         "Description": "",
         "ModelPath": "palm_tree.rmesh",
         "PortraitModelPath": null,
         "VisualMode": "Mesh",
-        "MaxCapacity": 0,
-        "HarvestRate": 0,
-        "GrowthRate": 0,
-        "MaxWorkers": 0,
-        "Scale": 2.75,
         "YOffset": 3.15,
         "CollisionCircle": 0.25,
         "Brightness": 0.5,
@@ -4537,17 +4753,17 @@
         "DespawnShader": null
       },
       {
+        "MaxCapacity": 2000,
+        "HarvestRate": 10,
+        "GrowthRate": 0,
+        "MaxWorkers": 5,
+        "Scale": 2.75,
         "TemplateID": "resource/resource_001",
         "Name": "Gold mine",
         "Description": "Harvestable resource deposit.",
         "ModelPath": "Assets/models/resources/gold_mine.rmesh",
         "PortraitModelPath": null,
         "VisualMode": "Mesh",
-        "MaxCapacity": 2000,
-        "HarvestRate": 10,
-        "GrowthRate": 0,
-        "MaxWorkers": 5,
-        "Scale": 2.75,
         "YOffset": 0,
         "CollisionCircle": 0,
         "Brightness": 0.5,
@@ -4561,17 +4777,17 @@
         "DespawnShader": null
       },
       {
+        "MaxCapacity": 2000,
+        "HarvestRate": 10,
+        "GrowthRate": 0,
+        "MaxWorkers": 5,
+        "Scale": 2.75,
         "TemplateID": "resource/resource_002",
         "Name": "New Resource",
         "Description": "Harvestable resource deposit.",
         "ModelPath": "birch_tree.rmesh",
         "PortraitModelPath": null,
         "VisualMode": "Mesh",
-        "MaxCapacity": 2000,
-        "HarvestRate": 10,
-        "GrowthRate": 0,
-        "MaxWorkers": 5,
-        "Scale": 2.75,
         "YOffset": 0,
         "CollisionCircle": 0,
         "Brightness": 0.5,
@@ -4585,17 +4801,17 @@
         "DespawnShader": null
       },
       {
+        "MaxCapacity": 2000,
+        "HarvestRate": 10,
+        "GrowthRate": 0,
+        "MaxWorkers": 5,
+        "Scale": 2.75,
         "TemplateID": "resource/resource_003",
         "Name": "New Resource",
         "Description": "Harvestable resource deposit.",
         "ModelPath": "birch_tree.rmesh",
         "PortraitModelPath": null,
         "VisualMode": "Mesh",
-        "MaxCapacity": 2000,
-        "HarvestRate": 10,
-        "GrowthRate": 0,
-        "MaxWorkers": 5,
-        "Scale": 2.75,
         "YOffset": 0,
         "CollisionCircle": 0,
         "Brightness": 0.5,
@@ -4611,13 +4827,13 @@
     ],
     "Props": [
       {
+        "Scale": 1,
         "TemplateID": "prop/crystal_cluster_29",
         "Name": "Crystals",
         "Description": "",
         "ModelPath": "crystal_cluster_29.rmesh",
         "PortraitModelPath": null,
         "VisualMode": "Mesh",
-        "Scale": 1,
         "YOffset": 1.0500002,
         "CollisionCircle": 0.75,
         "Brightness": 0.5,
@@ -4631,13 +4847,13 @@
         "DespawnShader": null
       },
       {
+        "Scale": 1,
         "TemplateID": "prop/spiked_wooden_stake",
         "Name": "Spike Pole",
         "Description": "",
         "ModelPath": "spiked_wooden_stake.rmesh",
         "PortraitModelPath": null,
         "VisualMode": "Mesh",
-        "Scale": 1,
         "YOffset": 0.7500002,
         "CollisionCircle": 0.4,
         "Brightness": 0.5,
@@ -4651,13 +4867,13 @@
         "DespawnShader": null
       },
       {
+        "Scale": 1.25,
         "TemplateID": "prop/banner_pole_1",
         "Name": "banner_pole_1",
         "Description": "",
         "ModelPath": "banner_pole_1.rmesh",
         "PortraitModelPath": null,
         "VisualMode": "Mesh",
-        "Scale": 1.25,
         "YOffset": 1.8500001,
         "CollisionCircle": 0,
         "Brightness": 0.5,
@@ -4671,13 +4887,13 @@
         "DespawnShader": null
       },
       {
+        "Scale": 1.25,
         "TemplateID": "prop/castle_tower_3",
         "Name": "castle_tower_3",
         "Description": "",
         "ModelPath": "castle_tower_3.rmesh",
         "PortraitModelPath": null,
         "VisualMode": "Mesh",
-        "Scale": 1.25,
         "YOffset": 1.2404,
         "CollisionCircle": 0,
         "Brightness": 0.5,
@@ -4691,13 +4907,13 @@
         "DespawnShader": null
       },
       {
+        "Scale": 1.25,
         "TemplateID": "prop/cauldron_prop",
         "Name": "cauldron_prop",
         "Description": "",
         "ModelPath": "cauldron_prop.rmesh",
         "PortraitModelPath": null,
         "VisualMode": "Mesh",
-        "Scale": 1.25,
         "YOffset": 0.95000017,
         "CollisionCircle": 0,
         "Brightness": 0.5,
@@ -4711,13 +4927,13 @@
         "DespawnShader": null
       },
       {
+        "Scale": 1.25,
         "TemplateID": "prop/heraldry_banner_stand",
         "Name": "heraldry_banner_stand",
         "Description": "",
         "ModelPath": "heraldry_banner_stand.rmesh",
         "PortraitModelPath": null,
         "VisualMode": "Mesh",
-        "Scale": 1.25,
         "YOffset": 1.3000002,
         "CollisionCircle": 0,
         "Brightness": 0.5,
@@ -4731,13 +4947,13 @@
         "DespawnShader": null
       },
       {
+        "Scale": 1.25,
         "TemplateID": "prop/ice_tower_1",
         "Name": "ice_tower_1",
         "Description": "",
         "ModelPath": "ice_tower_1.rmesh",
         "PortraitModelPath": null,
         "VisualMode": "Mesh",
-        "Scale": 1.25,
         "YOffset": 1.2539,
         "CollisionCircle": 0,
         "Brightness": 0.5,
@@ -4751,13 +4967,13 @@
         "DespawnShader": null
       },
       {
+        "Scale": 1.25,
         "TemplateID": "prop/merchant_stall",
         "Name": "merchant_stall",
         "Description": "",
         "ModelPath": "merchant_stall.rmesh",
         "PortraitModelPath": null,
         "VisualMode": "Mesh",
-        "Scale": 1.25,
         "YOffset": 0,
         "CollisionCircle": 0,
         "Brightness": 0.5,
@@ -4771,13 +4987,13 @@
         "DespawnShader": null
       },
       {
+        "Scale": 1.25,
         "TemplateID": "prop/siege_cannon",
         "Name": "siege_cannon",
         "Description": "",
         "ModelPath": "siege_cannon.rmesh",
         "PortraitModelPath": null,
         "VisualMode": "Mesh",
-        "Scale": 1.25,
         "YOffset": 1.2000002,
         "CollisionCircle": 0,
         "Brightness": 0.5,
@@ -4791,13 +5007,13 @@
         "DespawnShader": null
       },
       {
+        "Scale": 1.25,
         "TemplateID": "prop/skull_altar_pedestal",
         "Name": "skull_altar_pedestal",
         "Description": "",
         "ModelPath": "skull_altar_pedestal.rmesh",
         "PortraitModelPath": null,
         "VisualMode": "Mesh",
-        "Scale": 1.25,
         "YOffset": 1.3500001,
         "CollisionCircle": 0,
         "Brightness": 0.5,
@@ -4811,13 +5027,13 @@
         "DespawnShader": null
       },
       {
+        "Scale": 1.25,
         "TemplateID": "prop/skull_totem_prop",
         "Name": "skull_totem_prop",
         "Description": "",
         "ModelPath": "skull_totem_prop.rmesh",
         "PortraitModelPath": null,
         "VisualMode": "Mesh",
-        "Scale": 1.25,
         "YOffset": 0,
         "CollisionCircle": 0,
         "Brightness": 0.5,
@@ -4831,13 +5047,13 @@
         "DespawnShader": null
       },
       {
+        "Scale": 1.25,
         "TemplateID": "prop/spiked_gate",
         "Name": "spiked_gate",
         "Description": "",
         "ModelPath": "spiked_gate.rmesh",
         "PortraitModelPath": null,
         "VisualMode": "Mesh",
-        "Scale": 1.25,
         "YOffset": 0.95000017,
         "CollisionCircle": 0,
         "Brightness": 0.5,
@@ -4851,13 +5067,13 @@
         "DespawnShader": null
       },
       {
+        "Scale": 1.25,
         "TemplateID": "prop/stone_well",
         "Name": "stone_well",
         "Description": "",
         "ModelPath": "stone_well.rmesh",
         "PortraitModelPath": null,
         "VisualMode": "Mesh",
-        "Scale": 1.25,
         "YOffset": 1.3500001,
         "CollisionCircle": 0,
         "Brightness": 0.5,
@@ -4871,13 +5087,13 @@
         "DespawnShader": null
       },
       {
+        "Scale": 1.25,
         "TemplateID": "prop/tattered_banner_pole",
         "Name": "tattered_banner_pole",
         "Description": "",
         "ModelPath": "tattered_banner_pole.rmesh",
         "PortraitModelPath": null,
         "VisualMode": "Mesh",
-        "Scale": 1.25,
         "YOffset": 1.1000001,
         "CollisionCircle": 1,
         "Brightness": 0.5,
@@ -4891,13 +5107,13 @@
         "DespawnShader": null
       },
       {
+        "Scale": 1.25,
         "TemplateID": "prop/wooden_barrel_prop",
         "Name": "wooden_barrel_prop",
         "Description": "",
         "ModelPath": "wooden_barrel_prop.rmesh",
         "PortraitModelPath": null,
         "VisualMode": "Mesh",
-        "Scale": 1.25,
         "YOffset": 0.95000017,
         "CollisionCircle": 0,
         "Brightness": 0.5,
@@ -4911,13 +5127,13 @@
         "DespawnShader": null
       },
       {
+        "Scale": 1.25,
         "TemplateID": "prop/wooden_cart",
         "Name": "wooden_cart",
         "Description": "",
         "ModelPath": "wooden_cart.rmesh",
         "PortraitModelPath": null,
         "VisualMode": "Mesh",
-        "Scale": 1.25,
         "YOffset": 0.85000014,
         "CollisionCircle": 0,
         "Brightness": 0.5,
@@ -4931,13 +5147,13 @@
         "DespawnShader": null
       },
       {
+        "Scale": 1.25,
         "TemplateID": "prop/crystal_ore_1",
         "Name": "crystal_ore_1",
         "Description": "",
         "ModelPath": "crystal_ore_1.rmesh",
         "PortraitModelPath": null,
         "VisualMode": "Mesh",
-        "Scale": 1.25,
         "YOffset": 1.2496,
         "CollisionCircle": 0,
         "Brightness": 0.5,
@@ -4951,13 +5167,13 @@
         "DespawnShader": null
       },
       {
+        "Scale": 1.25,
         "TemplateID": "prop/obelisk_monolith",
         "Name": "obelisk_monolith",
         "Description": "",
         "ModelPath": "obelisk_monolith.rmesh",
         "PortraitModelPath": null,
         "VisualMode": "Mesh",
-        "Scale": 1.25,
         "YOffset": 1.25,
         "CollisionCircle": 0,
         "Brightness": 0.5,
@@ -4971,13 +5187,13 @@
         "DespawnShader": null
       },
       {
+        "Scale": 1.25,
         "TemplateID": "prop/skull_altar",
         "Name": "skull_altar",
         "Description": "",
         "ModelPath": "skull_altar.rmesh",
         "PortraitModelPath": null,
         "VisualMode": "Mesh",
-        "Scale": 1.25,
         "YOffset": 1.2508,
         "CollisionCircle": 0,
         "Brightness": 0.5,
@@ -4991,13 +5207,13 @@
         "DespawnShader": null
       },
       {
+        "Scale": 1.25,
         "TemplateID": "prop/tower",
         "Name": "tower",
         "Description": "",
         "ModelPath": "tower.rmesh",
         "PortraitModelPath": null,
         "VisualMode": "Mesh",
-        "Scale": 1.25,
         "YOffset": 1.252,
         "CollisionCircle": 0,
         "Brightness": 0.5,
@@ -5011,13 +5227,13 @@
         "DespawnShader": null
       },
       {
+        "Scale": 1.25,
         "TemplateID": "prop/ice_pillar",
         "Name": "ice_pillar",
         "Description": "",
         "ModelPath": "ice_pillar.rmesh",
         "PortraitModelPath": null,
         "VisualMode": "Mesh",
-        "Scale": 1.25,
         "YOffset": 1.2509,
         "CollisionCircle": 0,
         "Brightness": 0.5,
@@ -5031,13 +5247,13 @@
         "DespawnShader": null
       },
       {
+        "Scale": 1.25,
         "TemplateID": "prop/spider_mech",
         "Name": "spider_mech",
         "Description": "",
         "ModelPath": "spider_mech.rmesh",
         "PortraitModelPath": null,
         "VisualMode": "Mesh",
-        "Scale": 1.25,
         "YOffset": 0.6196,
         "CollisionCircle": 0,
         "Brightness": 0.5,
@@ -5051,13 +5267,13 @@
         "DespawnShader": null
       },
       {
+        "Scale": 1.25,
         "TemplateID": "prop/spike_armor_giant",
         "Name": "spike_armor_giant",
         "Description": "",
         "ModelPath": "spike_armor_giant.rmesh",
         "PortraitModelPath": null,
         "VisualMode": "Mesh",
-        "Scale": 1.25,
         "YOffset": 1.1955,
         "CollisionCircle": 0,
         "Brightness": 0.5,
@@ -5082,1032 +5298,6 @@
   "CustomWaterProfiles": [],
   "CustomEnvironmentPresets": [],
   "DefaultEnvironmentPreset": null,
-  "Models": {
-    "building/bell_tower": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": false,
-      "NormalizeLuminance": true,
-      "Offsets": 0,
-      "Scales": 1.2
-    },
-    "building/building_001": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": true,
-      "NormalizeLuminance": true,
-      "Offsets": -0.04999985,
-      "Scales": 2.9
-    },
-    "building/cactus_plant_1": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": true,
-      "NormalizeLuminance": true,
-      "Offsets": 1.5003,
-      "Scales": 1.5
-    },
-    "building/castle_gate_tower": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": false,
-      "NormalizeLuminance": true,
-      "Offsets": 0,
-      "Scales": 1.2
-    },
-    "building/fantasy_archway": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": false,
-      "NormalizeLuminance": true,
-      "Offsets": 1.2000002,
-      "Scales": 1.2
-    },
-    "building/fantasy_castle": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": false,
-      "NormalizeLuminance": true,
-      "Offsets": 1.3500001,
-      "Scales": 1.5
-    },
-    "building/fantasy_castle_tower_1": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": true,
-      "NormalizeLuminance": true,
-      "Offsets": 1.4054,
-      "Scales": 1.5
-    },
-    "building/fantasy_tower": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": false,
-      "NormalizeLuminance": true,
-      "Offsets": 1.4996,
-      "Scales": 1.5
-    },
-    "building/fantasy_tower_1": {
-      "Brightness": 0.46,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": false,
-      "NormalizeLuminance": true,
-      "Offsets": 0.95000017,
-      "Scales": 1.2
-    },
-    "building/fortified_tower": {
-      "Brightness": 0.35999998,
-      "CollisionCircleRatios": 0,
-      "ColorTint": "#ffffff",
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": false,
-      "NormalizeLuminance": true,
-      "Offsets": 2.1000001,
-      "Scales": 1.5
-    },
-    "building/golden_temple": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": true,
-      "NormalizeLuminance": true,
-      "Offsets": 1.5013,
-      "Scales": 1.5
-    },
-    "building/heavy_mortar_cannon": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": true,
-      "NormalizeLuminance": true,
-      "Offsets": 0.2734,
-      "Scales": 1.5
-    },
-    "building/ice_altar": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": false,
-      "NormalizeLuminance": true,
-      "Offsets": 1.5011,
-      "Scales": 1.5
-    },
-    "building/ice_castle_1": {
-      "Brightness": 1.26,
-      "CollisionCircleRatios": 1,
-      "ColorTint": "#b69fff",
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": false,
-      "NormalizeLuminance": true,
-      "Offsets": 1.2000002,
-      "Scales": 1.25
-    },
-    "building/lighthouse_tower": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": false,
-      "NormalizeLuminance": true,
-      "Offsets": 1.5003,
-      "Scales": 1.5
-    },
-    "building/low_poly_spiked_beast": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": false,
-      "NormalizeLuminance": true,
-      "Offsets": 1.4995,
-      "Scales": 1.5
-    },
-    "building/skull_archway": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": false,
-      "NormalizeLuminance": true,
-      "Offsets": 1.3500001,
-      "Scales": 1.5
-    },
-    "building/stone_arch_gate_1": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 1,
-      "ColorTint": "#ffffff",
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": false,
-      "NormalizeLuminance": true,
-      "Offsets": 1.7500001,
-      "Scales": 1.5
-    },
-    "building/stone_fortification_gate": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": false,
-      "NormalizeLuminance": true,
-      "Offsets": 1.5500002,
-      "Scales": 1.5
-    },
-    "building/stone_gate_arch": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": false,
-      "NormalizeLuminance": true,
-      "Offsets": 1.2000002,
-      "Scales": 1.5
-    },
-    "building/stone_watch_tower": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": false,
-      "NormalizeLuminance": true,
-      "Offsets": 1.5009,
-      "Scales": 1.5
-    },
-    "building/timber_framed_house": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "ColorTint": "#ffffff",
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": false,
-      "NormalizeLuminance": true,
-      "Offsets": 0.95000017,
-      "Scales": 1.2
-    },
-    "building/treehouse_structure": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": false,
-      "NormalizeLuminance": true,
-      "Offsets": 0,
-      "Scales": 1.2
-    },
-    "building/ziggurat_temple": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": false,
-      "NormalizeLuminance": true,
-      "Offsets": 1.2693,
-      "Scales": 1.5
-    },
-    "prop/banner_pole_1": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": true,
-      "NormalizeLuminance": true,
-      "Offsets": 1.8500001,
-      "Scales": 1.25
-    },
-    "prop/castle_tower_3": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": true,
-      "NormalizeLuminance": true,
-      "Offsets": 1.2404,
-      "Scales": 1.25
-    },
-    "prop/cauldron_prop": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": true,
-      "NormalizeLuminance": true,
-      "Offsets": 0.95000017,
-      "Scales": 1.25
-    },
-    "prop/crystal_cluster_29": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0.75,
-      "ColorTint": "#ffffff",
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": true,
-      "NormalizeLuminance": true,
-      "Offsets": 1.0500002,
-      "Scales": 1
-    },
-    "prop/crystal_ore_1": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": true,
-      "NormalizeLuminance": true,
-      "Offsets": 1.2496,
-      "Scales": 1.25
-    },
-    "prop/heraldry_banner_stand": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": true,
-      "NormalizeLuminance": true,
-      "Offsets": 1.3000002,
-      "Scales": 1.25
-    },
-    "prop/ice_pillar": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": true,
-      "NormalizeLuminance": true,
-      "Offsets": 1.2509,
-      "Scales": 1.25
-    },
-    "prop/ice_tower_1": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": true,
-      "NormalizeLuminance": true,
-      "Offsets": 1.2539,
-      "Scales": 1.25
-    },
-    "prop/merchant_stall": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": true,
-      "NormalizeLuminance": true,
-      "Offsets": 0,
-      "Scales": 1.25
-    },
-    "prop/obelisk_monolith": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": true,
-      "NormalizeLuminance": true,
-      "Offsets": 1.25,
-      "Scales": 1.25
-    },
-    "prop/siege_cannon": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": true,
-      "NormalizeLuminance": true,
-      "Offsets": 1.2000002,
-      "Scales": 1.25
-    },
-    "prop/skull_altar_pedestal": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": true,
-      "NormalizeLuminance": true,
-      "Offsets": 1.3500001,
-      "Scales": 1.25
-    },
-    "prop/skull_totem_prop": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": true,
-      "NormalizeLuminance": true,
-      "Offsets": 1.3000002,
-      "Scales": 1.25
-    },
-    "prop/spider_mech": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": true,
-      "NormalizeLuminance": true,
-      "Offsets": 0.6196,
-      "Scales": 1.25
-    },
-    "prop/spike_armor_giant": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": true,
-      "NormalizeLuminance": true,
-      "Offsets": 1.1955,
-      "Scales": 1.25
-    },
-    "prop/spiked_gate": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": true,
-      "NormalizeLuminance": true,
-      "Offsets": 0.95000017,
-      "Scales": 1.25
-    },
-    "prop/spiked_wooden_stake": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0.4,
-      "ColorTint": "#ffffff",
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": true,
-      "NormalizeLuminance": true,
-      "Offsets": 0.7500002,
-      "Scales": 1
-    },
-    "prop/stone_well": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": true,
-      "NormalizeLuminance": true,
-      "Offsets": 1.3500001,
-      "Scales": 1.25
-    },
-    "prop/tattered_banner_pole": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 1,
-      "ColorTint": "#ffffff",
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": true,
-      "NormalizeLuminance": true,
-      "Offsets": 1.1000001,
-      "Scales": 1.25
-    },
-    "prop/wooden_barrel_prop": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": true,
-      "NormalizeLuminance": true,
-      "Offsets": 0.95000017,
-      "Scales": 1.25
-    },
-    "prop/wooden_cart": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": true,
-      "NormalizeLuminance": true,
-      "Offsets": 0.85000014,
-      "Scales": 1.25
-    },
-    "resource/birch_tree": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": true,
-      "NormalizeLuminance": true,
-      "Offsets": 0,
-      "Scales": 2.75
-    },
-    "resource/bush": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": true,
-      "NormalizeLuminance": true,
-      "Offsets": 0,
-      "Scales": 2.75
-    },
-    "resource/cattail_plant": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 1,
-      "ColorTint": "#ffffff",
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": true,
-      "NormalizeLuminance": true,
-      "Offsets": 1.4500002,
-      "Scales": 2.75
-    },
-    "resource/coniferous_tree_2": {
-      "Brightness": 0.38,
-      "CollisionCircleRatios": 0.3,
-      "ColorTint": "#40ffdd",
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": true,
-      "NormalizeLuminance": true,
-      "Offsets": 2.0500002,
-      "Scales": 2.75
-    },
-    "resource/crystal_tree": {
-      "Brightness": 0.37,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": true,
-      "NormalizeLuminance": true,
-      "Offsets": 0,
-      "Scales": 2.75
-    },
-    "resource/mossy_rock_ore": {
-      "Brightness": 0.7,
-      "CollisionCircleRatios": 0.55,
-      "ColorTint": "#ffffff",
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": true,
-      "NormalizeLuminance": true,
-      "Offsets": 1.8500001,
-      "Scales": 2.75
-    },
-    "resource/palm_tree": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0.25,
-      "ColorTint": "#ffffff",
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": true,
-      "NormalizeLuminance": true,
-      "Offsets": 3.15,
-      "Scales": 2.75
-    },
-    "resource/resource_001": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": true,
-      "NormalizeLuminance": true,
-      "Offsets": 0,
-      "Scales": 2.75
-    },
-    "resource/resource_002": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": true,
-      "NormalizeLuminance": true,
-      "Offsets": 0,
-      "Scales": 2.75
-    },
-    "resource/resource_003": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": true,
-      "NormalizeLuminance": true,
-      "Offsets": 0,
-      "Scales": 2.75
-    },
-    "tower_cyberpunk.rmesh": {
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": true,
-      "Scales": 1.2
-    },
-    "unit/arrow_quiver": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": false,
-      "NormalizeLuminance": true,
-      "Offsets": 1.1000001,
-      "Scales": 1
-    },
-    "unit/barrel_with_tools": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": true,
-      "NormalizeLuminance": true,
-      "Offsets": 1.2000002,
-      "Scales": 1
-    },
-    "unit/cactus_plant": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "ColorTint": "#ffffff",
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": false,
-      "NormalizeLuminance": true,
-      "Offsets": 1.0017,
-      "Scales": 1
-    },
-    "unit/crystal_cluster_18": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": false,
-      "NormalizeLuminance": true,
-      "Offsets": 0.9952,
-      "Scales": 1
-    },
-    "unit/crystal_pedestal": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": false,
-      "NormalizeLuminance": true,
-      "Offsets": 1.0014,
-      "Scales": 1
-    },
-    "unit/dark_knight_armor": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": false,
-      "NormalizeLuminance": true,
-      "Offsets": 0.963,
-      "Scales": 1
-    },
-    "unit/fantasy_cottage": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": false,
-      "NormalizeLuminance": true,
-      "Offsets": 0,
-      "Scales": 1.5
-    },
-    "unit/fantasy_warrior_unit_1": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0.4,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": false,
-      "NormalizeLuminance": true,
-      "Offsets": 0,
-      "Scales": 1.5
-    },
-    "unit/ice_warrior_scout": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": false,
-      "NormalizeLuminance": true,
-      "Offsets": 0.9591,
-      "Scales": 1
-    },
-    "unit/lava_pillar": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": false,
-      "NormalizeLuminance": true,
-      "Offsets": 1.0004,
-      "Scales": 1
-    },
-    "unit/lava_rock_formation_1": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": true,
-      "NormalizeLuminance": true,
-      "Offsets": 1.0009,
-      "Scales": 1
-    },
-    "unit/layered_rock_formation": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": true,
-      "NormalizeLuminance": true,
-      "Offsets": 0.9406,
-      "Scales": 1
-    },
-    "unit/mechanical_knight": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": false,
-      "NormalizeLuminance": true,
-      "Offsets": 0.8752,
-      "Scales": 1
-    },
-    "unit/moba_minion_team1": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0.4,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": true,
-      "NormalizeLuminance": true,
-      "Offsets": 0,
-      "Scales": 1.5
-    },
-    "unit/moba_minion_team2": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0.4,
-      "ColorTint": "#ffffff",
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": true,
-      "NormalizeLuminance": true,
-      "Offsets": 0,
-      "Scales": 1.5
-    },
-    "unit/mystic_altar_statue": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": false,
-      "NormalizeLuminance": true,
-      "Offsets": 0.9318,
-      "Scales": 1
-    },
-    "unit/obelisk_3d_model": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": true,
-      "NormalizeLuminance": true,
-      "Offsets": 0.9999,
-      "Scales": 1
-    },
-    "unit/pyramid_temple": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": true,
-      "NormalizeLuminance": true,
-      "Offsets": 0.9542,
-      "Scales": 1
-    },
-    "unit/ritual_altar": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": true,
-      "NormalizeLuminance": true,
-      "Offsets": 0.9421,
-      "Scales": 1
-    },
-    "unit/skull_altar": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": true,
-      "NormalizeLuminance": true,
-      "Offsets": 1.2508,
-      "Scales": 1.25
-    },
-    "unit/stone_pyramid": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": false,
-      "NormalizeLuminance": true,
-      "Offsets": 0.9287,
-      "Scales": 1
-    },
-    "unit/stone_watchtower_5": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": false,
-      "NormalizeLuminance": true,
-      "Offsets": 0,
-      "Scales": 1
-    },
-    "unit/tower": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": true,
-      "NormalizeLuminance": true,
-      "Offsets": 1.252,
-      "Scales": 1.25
-    },
-    "unit/warrior_armor": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": false,
-      "NormalizeLuminance": true,
-      "Offsets": 0,
-      "Scales": 1.5
-    },
-    "unit/wooden_box": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": true,
-      "NormalizeLuminance": true,
-      "Offsets": 0.8141,
-      "Scales": 1
-    },
-    "unit/wooden_crate": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "IgnorePlayerColor": true,
-      "NormalizeLuminance": true,
-      "Offsets": 0.7759,
-      "Scales": 1
-    },
-    "building/fantasy_cottage": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "NormalizeLuminance": true,
-      "Offsets": 0,
-      "Scales": 1.5
-    },
-    "building/tower_cyberpunk": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": false,
-      "NormalizeLuminance": true,
-      "Offsets": 0,
-      "Scales": 1.5
-    },
-    "prop/skull_altar": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "NormalizeLuminance": true,
-      "Offsets": 1.2508,
-      "Scales": 1.25
-    },
-    "prop/tower": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0,
-      "DespillPlayerColor": true,
-      "NormalizeLuminance": true,
-      "Offsets": 1.252,
-      "Scales": 1.25
-    },
-    "unit/orc_warrior_7": {
-      "Brightness": 0.5,
-      "CollisionCircleRatios": 0.4,
-      "ColorTint": "#ffffff",
-      "DespillPlayerColor": true,
-      "NormalizeLuminance": true,
-      "Offsets": 0,
-      "Scales": 1.5
-    },
-    "birch_tree.rmesh": {
-      "Scales": 2.75
-    },
-    "bush.rmesh": {
-      "Scales": 2.75
-    },
-    "cattail_plant.rmesh": {
-      "Scales": 2.75
-    },
-    "coniferous_tree_2.rmesh": {
-      "Scales": 2.75
-    },
-    "crystal_tree.rmesh": {
-      "Scales": 2.75
-    },
-    "mossy_rock_ore.rmesh": {
-      "Scales": 2.75
-    },
-    "palm_tree.rmesh": {
-      "Scales": 2.75
-    },
-    "gold_mine.rmesh": {
-      "Scales": 2.75
-    },
-    "bell_tower.rmesh": {
-      "Scales": 1.2
-    },
-    "tower_cyberpunk_2.rmesh": {
-      "Scales": 1
-    },
-    "cactus_plant_1.rmesh": {
-      "Scales": 1.5
-    },
-    "castle_gate_tower.rmesh": {
-      "Scales": 1.2
-    },
-    "fantasy_archway.rmesh": {
-      "Scales": 1.2
-    },
-    "fantasy_castle.rmesh": {
-      "Scales": 1.5
-    },
-    "fantasy_cottage.rmesh": {
-      "Scales": 1.5
-    },
-    "fantasy_tower.rmesh": {
-      "Scales": 1.5
-    },
-    "fantasy_tower_1.rmesh": {
-      "Scales": 1.2
-    },
-    "fortified_tower.rmesh": {
-      "Scales": 1.5
-    },
-    "ice_altar.rmesh": {
-      "Scales": 1.5
-    },
-    "ice_castle_1.rmesh": {
-      "Scales": 1.25
-    },
-    "lighthouse_tower.rmesh": {
-      "Scales": 1.5
-    },
-    "skull_archway.rmesh": {
-      "Scales": 1.5
-    },
-    "stone_arch_gate_1.rmesh": {
-      "Scales": 1.5
-    },
-    "stone_fortification_gate.rmesh": {
-      "Scales": 1.5
-    },
-    "stone_gate_arch.rmesh": {
-      "Scales": 1.5
-    },
-    "stone_watch_tower.rmesh": {
-      "Scales": 1.5
-    },
-    "timber_framed_house.rmesh": {
-      "Scales": 1.2
-    },
-    "treehouse_structure.rmesh": {
-      "Scales": 1.2
-    },
-    "ziggurat_temple.rmesh": {
-      "Scales": 1.5
-    },
-    "fantasy_castle_tower_1.rmesh": {
-      "Scales": 1.5
-    },
-    "golden_temple.rmesh": {
-      "Scales": 1.5
-    },
-    "low_poly_spiked_beast.rmesh": {
-      "Scales": 1.5
-    },
-    "heavy_mortar_cannon.rmesh": {
-      "Scales": 1.5
-    },
-    "crystal_cluster_29.rmesh": {
-      "Scales": 1
-    },
-    "spiked_wooden_stake.rmesh": {
-      "Scales": 1
-    },
-    "banner_pole_1.rmesh": {
-      "Scales": 1.25
-    },
-    "castle_tower_3.rmesh": {
-      "Scales": 1.25
-    },
-    "cauldron_prop.rmesh": {
-      "Scales": 1.25
-    },
-    "heraldry_banner_stand.rmesh": {
-      "Scales": 1.25
-    },
-    "ice_tower_1.rmesh": {
-      "Scales": 1.25
-    },
-    "merchant_stall.rmesh": {
-      "Scales": 1.25
-    },
-    "siege_cannon.rmesh": {
-      "Scales": 1.25
-    },
-    "skull_altar_pedestal.rmesh": {
-      "Scales": 1.25
-    },
-    "skull_totem_prop.rmesh": {
-      "Scales": 1.25
-    },
-    "spiked_gate.rmesh": {
-      "Scales": 1.25
-    },
-    "stone_well.rmesh": {
-      "Scales": 1.25
-    },
-    "tattered_banner_pole.rmesh": {
-      "Scales": 1.25
-    },
-    "wooden_barrel_prop.rmesh": {
-      "Scales": 1.25
-    },
-    "wooden_cart.rmesh": {
-      "Scales": 1.25
-    },
-    "crystal_ore_1.rmesh": {
-      "Scales": 1.25
-    },
-    "obelisk_monolith.rmesh": {
-      "Scales": 1.25
-    },
-    "skull_altar.rmesh": {
-      "Scales": 1.25
-    },
-    "tower.rmesh": {
-      "Scales": 1.25
-    },
-    "ice_pillar.rmesh": {
-      "Scales": 1.25
-    },
-    "spider_mech.rmesh": {
-      "Scales": 1.25
-    },
-    "spike_armor_giant.rmesh": {
-      "Scales": 1.25
-    },
-    "arrow_quiver.rmesh": {
-      "Scales": 1
-    },
-    "barrel_with_tools.rmesh": {
-      "Scales": 1
-    },
-    "stone_watchtower_5.rmesh": {
-      "Scales": 1
-    },
-    "wooden_box.rmesh": {
-      "Scales": 1
-    },
-    "wooden_crate.rmesh": {
-      "Scales": 1
-    },
-    "cactus_plant.rmesh": {
-      "Scales": 1
-    },
-    "crystal_cluster_18.rmesh": {
-      "Scales": 1
-    },
-    "crystal_pedestal.rmesh": {
-      "Scales": 1
-    },
-    "lava_pillar.rmesh": {
-      "Scales": 1
-    },
-    "lava_rock_formation_1.rmesh": {
-      "IgnorePlayerColor": true,
-      "Scales": 1
-    },
-    "layered_rock_formation.rmesh": {
-      "IgnorePlayerColor": true,
-      "Scales": 1
-    },
-    "mystic_altar_statue.rmesh": {
-      "Scales": 1
-    },
-    "obelisk_3d_model.rmesh": {
-      "Scales": 1
-    },
-    "ritual_altar.rmesh": {
-      "Scales": 1
-    },
-    "stone_pyramid.rmesh": {
-      "Scales": 1
-    },
-    "pyramid_temple.rmesh": {
-      "Scales": 1
-    },
-    "mechanical_knight.rmesh": {
-      "Scales": 1
-    },
-    "ice_warrior_scout.rmesh": {
-      "Scales": 1
-    },
-    "dark_knight_armor.rmesh": {
-      "Scales": 1
-    },
-    "fantasy_warrior_unit_1.rmesh": {
-      "Scales": 1.5
-    },
-    "orc_warrior_7.rmesh": {
-      "Scales": 1.5
-    },
-    "warrior_armor.rmesh": {
-      "Scales": 1.5
-    }
-  },
   "textures": {
     "terrain/abyssal_trench_pelagic_dust": {
       "SwatchIndex": 2,
@@ -7174,5 +6364,1031 @@
       "AssetType": "SpawnShader"
     }
   },
-  "gdshader": {}
+  "gdshader": {},
+  "Models": {
+    "building/bell_tower": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": false,
+      "NormalizeLuminance": true,
+      "Offsets": 0,
+      "Scales": 1.2
+    },
+    "building/building_001": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": true,
+      "NormalizeLuminance": true,
+      "Offsets": -0.04999985,
+      "Scales": 2.9
+    },
+    "building/cactus_plant_1": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": true,
+      "NormalizeLuminance": true,
+      "Offsets": 1.5003,
+      "Scales": 1.5
+    },
+    "building/castle_gate_tower": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": false,
+      "NormalizeLuminance": true,
+      "Offsets": 0,
+      "Scales": 1.2
+    },
+    "building/fantasy_archway": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": false,
+      "NormalizeLuminance": true,
+      "Offsets": 1.2000002,
+      "Scales": 1.2
+    },
+    "building/fantasy_castle": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": false,
+      "NormalizeLuminance": true,
+      "Offsets": 1.3500001,
+      "Scales": 1.5
+    },
+    "building/fantasy_castle_tower_1": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": true,
+      "NormalizeLuminance": true,
+      "Offsets": 1.4054,
+      "Scales": 1.5
+    },
+    "building/fantasy_tower": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": false,
+      "NormalizeLuminance": true,
+      "Offsets": 1.4996,
+      "Scales": 1.5
+    },
+    "building/fantasy_tower_1": {
+      "Brightness": 0.46,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": false,
+      "NormalizeLuminance": true,
+      "Offsets": 0.95000017,
+      "Scales": 1.2
+    },
+    "building/fortified_tower": {
+      "Brightness": 0.35999998,
+      "CollisionCircleRatios": 0,
+      "ColorTint": "#ffffff",
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": false,
+      "NormalizeLuminance": true,
+      "Offsets": 2.1000001,
+      "Scales": 1.5
+    },
+    "building/golden_temple": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": true,
+      "NormalizeLuminance": true,
+      "Offsets": 1.5013,
+      "Scales": 1.5
+    },
+    "building/heavy_mortar_cannon": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": true,
+      "NormalizeLuminance": true,
+      "Offsets": 0.2734,
+      "Scales": 1.5
+    },
+    "building/ice_altar": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": false,
+      "NormalizeLuminance": true,
+      "Offsets": 1.5011,
+      "Scales": 1.5
+    },
+    "building/ice_castle_1": {
+      "Brightness": 1.26,
+      "CollisionCircleRatios": 1,
+      "ColorTint": "#b69fff",
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": false,
+      "NormalizeLuminance": true,
+      "Offsets": 1.2000002,
+      "Scales": 1.25
+    },
+    "building/lighthouse_tower": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": false,
+      "NormalizeLuminance": true,
+      "Offsets": 1.5003,
+      "Scales": 1.5
+    },
+    "building/low_poly_spiked_beast": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": false,
+      "NormalizeLuminance": true,
+      "Offsets": 1.4995,
+      "Scales": 1.5
+    },
+    "building/skull_archway": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": false,
+      "NormalizeLuminance": true,
+      "Offsets": 1.3500001,
+      "Scales": 1.5
+    },
+    "building/stone_arch_gate_1": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 1,
+      "ColorTint": "#ffffff",
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": false,
+      "NormalizeLuminance": true,
+      "Offsets": 1.7500001,
+      "Scales": 1.5
+    },
+    "building/stone_fortification_gate": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": false,
+      "NormalizeLuminance": true,
+      "Offsets": 1.5500002,
+      "Scales": 1.5
+    },
+    "building/stone_gate_arch": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": false,
+      "NormalizeLuminance": true,
+      "Offsets": 1.2000002,
+      "Scales": 1.5
+    },
+    "building/stone_watch_tower": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": false,
+      "NormalizeLuminance": true,
+      "Offsets": 1.5009,
+      "Scales": 1.5
+    },
+    "building/timber_framed_house": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "ColorTint": "#ffffff",
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": false,
+      "NormalizeLuminance": true,
+      "Offsets": 0.95000017,
+      "Scales": 1.2
+    },
+    "building/treehouse_structure": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": false,
+      "NormalizeLuminance": true,
+      "Offsets": 0,
+      "Scales": 1.2
+    },
+    "building/ziggurat_temple": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": false,
+      "NormalizeLuminance": true,
+      "Offsets": 1.2693,
+      "Scales": 1.5
+    },
+    "prop/banner_pole_1": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": true,
+      "NormalizeLuminance": true,
+      "Offsets": 1.8500001,
+      "Scales": 1.25
+    },
+    "prop/castle_tower_3": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": true,
+      "NormalizeLuminance": true,
+      "Offsets": 1.2404,
+      "Scales": 1.25
+    },
+    "prop/cauldron_prop": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": true,
+      "NormalizeLuminance": true,
+      "Offsets": 0.95000017,
+      "Scales": 1.25
+    },
+    "prop/crystal_cluster_29": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0.75,
+      "ColorTint": "#ffffff",
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": true,
+      "NormalizeLuminance": true,
+      "Offsets": 1.0500002,
+      "Scales": 1
+    },
+    "prop/crystal_ore_1": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": true,
+      "NormalizeLuminance": true,
+      "Offsets": 1.2496,
+      "Scales": 1.25
+    },
+    "prop/heraldry_banner_stand": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": true,
+      "NormalizeLuminance": true,
+      "Offsets": 1.3000002,
+      "Scales": 1.25
+    },
+    "prop/ice_pillar": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": true,
+      "NormalizeLuminance": true,
+      "Offsets": 1.2509,
+      "Scales": 1.25
+    },
+    "prop/ice_tower_1": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": true,
+      "NormalizeLuminance": true,
+      "Offsets": 1.2539,
+      "Scales": 1.25
+    },
+    "prop/merchant_stall": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": true,
+      "NormalizeLuminance": true,
+      "Offsets": 0,
+      "Scales": 1.25
+    },
+    "prop/obelisk_monolith": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": true,
+      "NormalizeLuminance": true,
+      "Offsets": 1.25,
+      "Scales": 1.25
+    },
+    "prop/siege_cannon": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": true,
+      "NormalizeLuminance": true,
+      "Offsets": 1.2000002,
+      "Scales": 1.25
+    },
+    "prop/skull_altar_pedestal": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": true,
+      "NormalizeLuminance": true,
+      "Offsets": 1.3500001,
+      "Scales": 1.25
+    },
+    "prop/skull_totem_prop": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": true,
+      "NormalizeLuminance": true,
+      "Offsets": 1.3000002,
+      "Scales": 1.25
+    },
+    "prop/spider_mech": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": true,
+      "NormalizeLuminance": true,
+      "Offsets": 0.6196,
+      "Scales": 1.25
+    },
+    "prop/spike_armor_giant": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": true,
+      "NormalizeLuminance": true,
+      "Offsets": 1.1955,
+      "Scales": 1.25
+    },
+    "prop/spiked_gate": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": true,
+      "NormalizeLuminance": true,
+      "Offsets": 0.95000017,
+      "Scales": 1.25
+    },
+    "prop/spiked_wooden_stake": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0.4,
+      "ColorTint": "#ffffff",
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": true,
+      "NormalizeLuminance": true,
+      "Offsets": 0.7500002,
+      "Scales": 1
+    },
+    "prop/stone_well": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": true,
+      "NormalizeLuminance": true,
+      "Offsets": 1.3500001,
+      "Scales": 1.25
+    },
+    "prop/tattered_banner_pole": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 1,
+      "ColorTint": "#ffffff",
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": true,
+      "NormalizeLuminance": true,
+      "Offsets": 1.1000001,
+      "Scales": 1.25
+    },
+    "prop/wooden_barrel_prop": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": true,
+      "NormalizeLuminance": true,
+      "Offsets": 0.95000017,
+      "Scales": 1.25
+    },
+    "prop/wooden_cart": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": true,
+      "NormalizeLuminance": true,
+      "Offsets": 0.85000014,
+      "Scales": 1.25
+    },
+    "resource/birch_tree": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": true,
+      "NormalizeLuminance": true,
+      "Offsets": 0,
+      "Scales": 2.75
+    },
+    "resource/bush": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": true,
+      "NormalizeLuminance": true,
+      "Offsets": 0,
+      "Scales": 2.75
+    },
+    "resource/cattail_plant": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 1,
+      "ColorTint": "#ffffff",
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": true,
+      "NormalizeLuminance": true,
+      "Offsets": 1.4500002,
+      "Scales": 2.75
+    },
+    "resource/coniferous_tree_2": {
+      "Brightness": 0.38,
+      "CollisionCircleRatios": 0.3,
+      "ColorTint": "#40ffdd",
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": true,
+      "NormalizeLuminance": true,
+      "Offsets": 2.0500002,
+      "Scales": 2.75
+    },
+    "resource/crystal_tree": {
+      "Brightness": 0.37,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": true,
+      "NormalizeLuminance": true,
+      "Offsets": 0,
+      "Scales": 2.75
+    },
+    "resource/mossy_rock_ore": {
+      "Brightness": 0.7,
+      "CollisionCircleRatios": 0.55,
+      "ColorTint": "#ffffff",
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": true,
+      "NormalizeLuminance": true,
+      "Offsets": 1.8500001,
+      "Scales": 2.75
+    },
+    "resource/palm_tree": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0.25,
+      "ColorTint": "#ffffff",
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": true,
+      "NormalizeLuminance": true,
+      "Offsets": 3.15,
+      "Scales": 2.75
+    },
+    "resource/resource_001": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": true,
+      "NormalizeLuminance": true,
+      "Offsets": 0,
+      "Scales": 2.75
+    },
+    "resource/resource_002": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": true,
+      "NormalizeLuminance": true,
+      "Offsets": 0,
+      "Scales": 2.75
+    },
+    "resource/resource_003": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": true,
+      "NormalizeLuminance": true,
+      "Offsets": 0,
+      "Scales": 2.75
+    },
+    "tower_cyberpunk.rmesh": {
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": true,
+      "Scales": 1.2
+    },
+    "unit/arrow_quiver": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": false,
+      "NormalizeLuminance": true,
+      "Offsets": 1.1000001,
+      "Scales": 1
+    },
+    "unit/barrel_with_tools": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": true,
+      "NormalizeLuminance": true,
+      "Offsets": 1.2000002,
+      "Scales": 1
+    },
+    "unit/cactus_plant": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "ColorTint": "#ffffff",
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": false,
+      "NormalizeLuminance": true,
+      "Offsets": 1.0017,
+      "Scales": 1
+    },
+    "unit/crystal_cluster_18": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": false,
+      "NormalizeLuminance": true,
+      "Offsets": 0.9952,
+      "Scales": 1
+    },
+    "unit/crystal_pedestal": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": false,
+      "NormalizeLuminance": true,
+      "Offsets": 1.0014,
+      "Scales": 1
+    },
+    "unit/dark_knight_armor": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": false,
+      "NormalizeLuminance": true,
+      "Offsets": 0.963,
+      "Scales": 1
+    },
+    "unit/fantasy_cottage": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": false,
+      "NormalizeLuminance": true,
+      "Offsets": 0,
+      "Scales": 1.5
+    },
+    "unit/fantasy_warrior_unit_1": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0.4,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": false,
+      "NormalizeLuminance": true,
+      "Offsets": 0,
+      "Scales": 1.5
+    },
+    "unit/ice_warrior_scout": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": false,
+      "NormalizeLuminance": true,
+      "Offsets": 0.9591,
+      "Scales": 1
+    },
+    "unit/lava_pillar": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": false,
+      "NormalizeLuminance": true,
+      "Offsets": 1.0004,
+      "Scales": 1
+    },
+    "unit/lava_rock_formation_1": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": true,
+      "NormalizeLuminance": true,
+      "Offsets": 1.0009,
+      "Scales": 1
+    },
+    "unit/layered_rock_formation": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": true,
+      "NormalizeLuminance": true,
+      "Offsets": 0.9406,
+      "Scales": 1
+    },
+    "unit/mechanical_knight": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": false,
+      "NormalizeLuminance": true,
+      "Offsets": 0.8752,
+      "Scales": 1
+    },
+    "unit/moba_minion_team1": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0.4,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": true,
+      "NormalizeLuminance": true,
+      "Offsets": 0,
+      "Scales": 1.5
+    },
+    "unit/moba_minion_team2": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0.4,
+      "ColorTint": "#ffffff",
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": true,
+      "NormalizeLuminance": true,
+      "Offsets": 0,
+      "Scales": 1.5
+    },
+    "unit/mystic_altar_statue": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": false,
+      "NormalizeLuminance": true,
+      "Offsets": 0.9318,
+      "Scales": 1
+    },
+    "unit/obelisk_3d_model": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": true,
+      "NormalizeLuminance": true,
+      "Offsets": 0.9999,
+      "Scales": 1
+    },
+    "unit/pyramid_temple": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": true,
+      "NormalizeLuminance": true,
+      "Offsets": 0.9542,
+      "Scales": 1
+    },
+    "unit/ritual_altar": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": true,
+      "NormalizeLuminance": true,
+      "Offsets": 0.9421,
+      "Scales": 1
+    },
+    "unit/skull_altar": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": true,
+      "NormalizeLuminance": true,
+      "Offsets": 1.2508,
+      "Scales": 1.25
+    },
+    "unit/stone_pyramid": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": false,
+      "NormalizeLuminance": true,
+      "Offsets": 0.9287,
+      "Scales": 1
+    },
+    "unit/stone_watchtower_5": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": false,
+      "NormalizeLuminance": true,
+      "Offsets": 0,
+      "Scales": 1
+    },
+    "unit/tower": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": true,
+      "NormalizeLuminance": true,
+      "Offsets": 1.252,
+      "Scales": 1.25
+    },
+    "unit/warrior_armor": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": false,
+      "NormalizeLuminance": true,
+      "Offsets": 0,
+      "Scales": 1.5
+    },
+    "unit/wooden_box": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": true,
+      "NormalizeLuminance": true,
+      "Offsets": 0.8141,
+      "Scales": 1
+    },
+    "unit/wooden_crate": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "IgnorePlayerColor": true,
+      "NormalizeLuminance": true,
+      "Offsets": 0.7759,
+      "Scales": 1
+    },
+    "building/fantasy_cottage": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "NormalizeLuminance": true,
+      "Offsets": 0,
+      "Scales": 1.5
+    },
+    "building/tower_cyberpunk": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": false,
+      "NormalizeLuminance": true,
+      "Offsets": 0,
+      "Scales": 1.5
+    },
+    "prop/skull_altar": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "NormalizeLuminance": true,
+      "Offsets": 1.2508,
+      "Scales": 1.25
+    },
+    "prop/tower": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0,
+      "DespillPlayerColor": true,
+      "NormalizeLuminance": true,
+      "Offsets": 1.252,
+      "Scales": 1.25
+    },
+    "unit/orc_warrior_7": {
+      "Brightness": 0.5,
+      "CollisionCircleRatios": 0.4,
+      "ColorTint": "#ffffff",
+      "DespillPlayerColor": true,
+      "NormalizeLuminance": true,
+      "Offsets": 0,
+      "Scales": 1.5
+    },
+    "birch_tree.rmesh": {
+      "Scales": 2.75
+    },
+    "bush.rmesh": {
+      "Scales": 2.75
+    },
+    "cattail_plant.rmesh": {
+      "Scales": 2.75
+    },
+    "coniferous_tree_2.rmesh": {
+      "Scales": 2.75
+    },
+    "crystal_tree.rmesh": {
+      "Scales": 2.75
+    },
+    "mossy_rock_ore.rmesh": {
+      "Scales": 2.75
+    },
+    "palm_tree.rmesh": {
+      "Scales": 2.75
+    },
+    "gold_mine.rmesh": {
+      "Scales": 2.75
+    },
+    "bell_tower.rmesh": {
+      "Scales": 1.2
+    },
+    "tower_cyberpunk_2.rmesh": {
+      "Scales": 1
+    },
+    "cactus_plant_1.rmesh": {
+      "Scales": 1.5
+    },
+    "castle_gate_tower.rmesh": {
+      "Scales": 1.2
+    },
+    "fantasy_archway.rmesh": {
+      "Scales": 1.2
+    },
+    "fantasy_castle.rmesh": {
+      "Scales": 1.5
+    },
+    "fantasy_cottage.rmesh": {
+      "Scales": 1.5
+    },
+    "fantasy_tower.rmesh": {
+      "Scales": 1.5
+    },
+    "fantasy_tower_1.rmesh": {
+      "Scales": 1.2
+    },
+    "fortified_tower.rmesh": {
+      "Scales": 1.5
+    },
+    "ice_altar.rmesh": {
+      "Scales": 1.5
+    },
+    "ice_castle_1.rmesh": {
+      "Scales": 1.25
+    },
+    "lighthouse_tower.rmesh": {
+      "Scales": 1.5
+    },
+    "skull_archway.rmesh": {
+      "Scales": 1.5
+    },
+    "stone_arch_gate_1.rmesh": {
+      "Scales": 1.5
+    },
+    "stone_fortification_gate.rmesh": {
+      "Scales": 1.5
+    },
+    "stone_gate_arch.rmesh": {
+      "Scales": 1.5
+    },
+    "stone_watch_tower.rmesh": {
+      "Scales": 1.5
+    },
+    "timber_framed_house.rmesh": {
+      "Scales": 1.2
+    },
+    "treehouse_structure.rmesh": {
+      "Scales": 1.2
+    },
+    "ziggurat_temple.rmesh": {
+      "Scales": 1.5
+    },
+    "fantasy_castle_tower_1.rmesh": {
+      "Scales": 1.5
+    },
+    "golden_temple.rmesh": {
+      "Scales": 1.5
+    },
+    "low_poly_spiked_beast.rmesh": {
+      "Scales": 1.5
+    },
+    "heavy_mortar_cannon.rmesh": {
+      "Scales": 1.5
+    },
+    "crystal_cluster_29.rmesh": {
+      "Scales": 1
+    },
+    "spiked_wooden_stake.rmesh": {
+      "Scales": 1
+    },
+    "banner_pole_1.rmesh": {
+      "Scales": 1.25
+    },
+    "castle_tower_3.rmesh": {
+      "Scales": 1.25
+    },
+    "cauldron_prop.rmesh": {
+      "Scales": 1.25
+    },
+    "heraldry_banner_stand.rmesh": {
+      "Scales": 1.25
+    },
+    "ice_tower_1.rmesh": {
+      "Scales": 1.25
+    },
+    "merchant_stall.rmesh": {
+      "Scales": 1.25
+    },
+    "siege_cannon.rmesh": {
+      "Scales": 1.25
+    },
+    "skull_altar_pedestal.rmesh": {
+      "Scales": 1.25
+    },
+    "skull_totem_prop.rmesh": {
+      "Scales": 1.25
+    },
+    "spiked_gate.rmesh": {
+      "Scales": 1.25
+    },
+    "stone_well.rmesh": {
+      "Scales": 1.25
+    },
+    "tattered_banner_pole.rmesh": {
+      "Scales": 1.25
+    },
+    "wooden_barrel_prop.rmesh": {
+      "Scales": 1.25
+    },
+    "wooden_cart.rmesh": {
+      "Scales": 1.25
+    },
+    "crystal_ore_1.rmesh": {
+      "Scales": 1.25
+    },
+    "obelisk_monolith.rmesh": {
+      "Scales": 1.25
+    },
+    "skull_altar.rmesh": {
+      "Scales": 1.25
+    },
+    "tower.rmesh": {
+      "Scales": 1.25
+    },
+    "ice_pillar.rmesh": {
+      "Scales": 1.25
+    },
+    "spider_mech.rmesh": {
+      "Scales": 1.25
+    },
+    "spike_armor_giant.rmesh": {
+      "Scales": 1.25
+    },
+    "arrow_quiver.rmesh": {
+      "Scales": 1
+    },
+    "barrel_with_tools.rmesh": {
+      "Scales": 1
+    },
+    "stone_watchtower_5.rmesh": {
+      "Scales": 1
+    },
+    "wooden_box.rmesh": {
+      "Scales": 1
+    },
+    "wooden_crate.rmesh": {
+      "Scales": 1
+    },
+    "cactus_plant.rmesh": {
+      "Scales": 1
+    },
+    "crystal_cluster_18.rmesh": {
+      "Scales": 1
+    },
+    "crystal_pedestal.rmesh": {
+      "Scales": 1
+    },
+    "lava_pillar.rmesh": {
+      "Scales": 1
+    },
+    "lava_rock_formation_1.rmesh": {
+      "IgnorePlayerColor": true,
+      "Scales": 1
+    },
+    "layered_rock_formation.rmesh": {
+      "IgnorePlayerColor": true,
+      "Scales": 1
+    },
+    "mystic_altar_statue.rmesh": {
+      "Scales": 1
+    },
+    "obelisk_3d_model.rmesh": {
+      "Scales": 1
+    },
+    "ritual_altar.rmesh": {
+      "Scales": 1
+    },
+    "stone_pyramid.rmesh": {
+      "Scales": 1
+    },
+    "pyramid_temple.rmesh": {
+      "Scales": 1
+    },
+    "mechanical_knight.rmesh": {
+      "Scales": 1
+    },
+    "ice_warrior_scout.rmesh": {
+      "Scales": 1
+    },
+    "dark_knight_armor.rmesh": {
+      "Scales": 1
+    },
+    "fantasy_warrior_unit_1.rmesh": {
+      "Scales": 1.5
+    },
+    "orc_warrior_7.rmesh": {
+      "Scales": 1.5
+    },
+    "warrior_armor.rmesh": {
+      "Scales": 1.5
+    }
+  }
 }

@@ -9,7 +9,6 @@
       "PosZ": -84.746956,
       "RotationY": 0,
       "Scale": 5,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -19,7 +18,6 @@
       "PosZ": -55.248215,
       "RotationY": 0,
       "Scale": 5,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -29,7 +27,6 @@
       "PosZ": -86.43969,
       "RotationY": 0,
       "Scale": 4.05,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -39,7 +36,6 @@
       "PosZ": -60.06087,
       "RotationY": 0,
       "Scale": 5,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -49,7 +45,6 @@
       "PosZ": -114.8413,
       "RotationY": 0,
       "Scale": 5,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -59,7 +54,6 @@
       "PosZ": -61.344902,
       "RotationY": 0,
       "Scale": 5,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -69,7 +63,6 @@
       "PosZ": -87.580605,
       "RotationY": 0,
       "Scale": 5,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -79,7 +72,6 @@
       "PosZ": -39.827026,
       "RotationY": 0,
       "Scale": 5,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -89,7 +81,6 @@
       "PosZ": -51.239788,
       "RotationY": 0,
       "Scale": 5,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -99,7 +90,6 @@
       "PosZ": -84.446754,
       "RotationY": 0,
       "Scale": 5,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -109,7 +99,6 @@
       "PosZ": -87.408005,
       "RotationY": 0,
       "Scale": 4.05,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -119,7 +108,6 @@
       "PosZ": -125.04679,
       "RotationY": 0,
       "Scale": 5,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -129,7 +117,6 @@
       "PosZ": -112.229416,
       "RotationY": 0,
       "Scale": 5,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -139,7 +126,6 @@
       "PosZ": -113.98895,
       "RotationY": 0,
       "Scale": 5,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -149,7 +135,6 @@
       "PosZ": -51.251507,
       "RotationY": 0,
       "Scale": 5,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -159,7 +144,6 @@
       "PosZ": -130.65842,
       "RotationY": 0,
       "Scale": 5,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -169,7 +153,6 @@
       "PosZ": 17.938194,
       "RotationY": 0,
       "Scale": 4.55,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -179,7 +162,6 @@
       "PosZ": 62.40175,
       "RotationY": 0,
       "Scale": 4.55,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -189,7 +171,6 @@
       "PosZ": 16.807472,
       "RotationY": 0,
       "Scale": 4.55,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -199,7 +180,6 @@
       "PosZ": 59.476162,
       "RotationY": 0,
       "Scale": 4.55,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -209,7 +189,6 @@
       "PosZ": 96.717094,
       "RotationY": 0,
       "Scale": 4.55,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -219,7 +198,6 @@
       "PosZ": 26.9415,
       "RotationY": 0,
       "Scale": 4.55,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -229,7 +207,6 @@
       "PosZ": 104.90192,
       "RotationY": 0,
       "Scale": 4.55,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -239,7 +216,6 @@
       "PosZ": 58.69438,
       "RotationY": 0,
       "Scale": 4.55,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -249,7 +225,6 @@
       "PosZ": 98.354065,
       "RotationY": 0,
       "Scale": 4.55,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -259,7 +234,6 @@
       "PosZ": -85.806305,
       "RotationY": 0,
       "Scale": 2.8500004,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -269,7 +243,6 @@
       "PosZ": -55.317406,
       "RotationY": 0,
       "Scale": 2.8000011,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -279,7 +252,6 @@
       "PosZ": -117.590416,
       "RotationY": 0,
       "Scale": 2.7999992,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -289,7 +261,6 @@
       "PosZ": -132.00014,
       "RotationY": 0,
       "Scale": 2.7999992,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -299,7 +270,6 @@
       "PosZ": -85.26758,
       "RotationY": 0,
       "Scale": 2.8000011,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -309,7 +279,6 @@
       "PosZ": -58.42474,
       "RotationY": 0,
       "Scale": 2.8000011,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -319,7 +288,6 @@
       "PosZ": -44.44485,
       "RotationY": 0,
       "Scale": 2.8000011,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -329,7 +297,6 @@
       "PosZ": -115.76064,
       "RotationY": 0,
       "Scale": 2.8000011,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -339,7 +306,6 @@
       "PosZ": -128.63727,
       "RotationY": 0,
       "Scale": 2.8500004,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -349,7 +315,6 @@
       "PosZ": -112.93642,
       "RotationY": 0,
       "Scale": 2.8000011,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -359,7 +324,6 @@
       "PosZ": -55.00521,
       "RotationY": 0,
       "Scale": 2.8000011,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -369,7 +333,6 @@
       "PosZ": -86.88098,
       "RotationY": 0,
       "Scale": 2.8000011,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -379,7 +342,6 @@
       "PosZ": -76.99338,
       "RotationY": 0,
       "Scale": 2.35,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -389,7 +351,6 @@
       "PosZ": -114.48464,
       "RotationY": 0,
       "Scale": 2.35,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -399,7 +360,6 @@
       "PosZ": -116.87322,
       "RotationY": 0,
       "Scale": 1.9500002,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -409,7 +369,6 @@
       "PosZ": -90.13295,
       "RotationY": 0,
       "Scale": 1.7500001,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -419,7 +378,6 @@
       "PosZ": -65.79227,
       "RotationY": 0,
       "Scale": 2.35,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -429,7 +387,6 @@
       "PosZ": -92.30701,
       "RotationY": 0,
       "Scale": 2.35,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -439,7 +396,6 @@
       "PosZ": -63.743877,
       "RotationY": 0,
       "Scale": 1.8500001,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -449,7 +405,6 @@
       "PosZ": -109.10276,
       "RotationY": 0,
       "Scale": 2.35,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -459,7 +414,6 @@
       "PosZ": -107.45397,
       "RotationY": 0,
       "Scale": 1.8500001,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -469,7 +423,6 @@
       "PosZ": -29.30402,
       "RotationY": 0,
       "Scale": 2.35,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -479,7 +432,6 @@
       "PosZ": -31.185555,
       "RotationY": 0,
       "Scale": 1.8500001,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -489,7 +441,6 @@
       "PosZ": -65.27657,
       "RotationY": 0,
       "Scale": 2.35,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -499,7 +450,6 @@
       "PosZ": -62.404552,
       "RotationY": 0,
       "Scale": 1.7500001,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -509,7 +459,6 @@
       "PosZ": -101.64936,
       "RotationY": 0,
       "Scale": 2.35,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -519,7 +468,6 @@
       "PosZ": -79.99944,
       "RotationY": 0,
       "Scale": 1.7500001,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -529,7 +477,6 @@
       "PosZ": -65.14982,
       "RotationY": 0,
       "Scale": 2.35,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -539,7 +486,6 @@
       "PosZ": -82.44101,
       "RotationY": 0,
       "Scale": 2.35,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -549,7 +495,6 @@
       "PosZ": -62.106205,
       "RotationY": 0,
       "Scale": 1.9500002,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -559,7 +504,6 @@
       "PosZ": -106.448204,
       "RotationY": 0,
       "Scale": 2.35,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -569,7 +513,6 @@
       "PosZ": -81.95452,
       "RotationY": 0,
       "Scale": 2.35,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -579,7 +522,6 @@
       "PosZ": -79.13742,
       "RotationY": 0,
       "Scale": 1.9500002,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -589,7 +531,6 @@
       "PosZ": -26.82254,
       "RotationY": 0,
       "Scale": 2.35,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -599,7 +540,6 @@
       "PosZ": -30.611032,
       "RotationY": 0,
       "Scale": 2.35,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -609,7 +549,6 @@
       "PosZ": 40.059944,
       "RotationY": 0,
       "Scale": 2.3,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -619,7 +558,6 @@
       "PosZ": 40.17362,
       "RotationY": 0,
       "Scale": 2.3,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -629,7 +567,6 @@
       "PosZ": 37.610172,
       "RotationY": 0,
       "Scale": 2.3,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -639,7 +576,6 @@
       "PosZ": 71.8898,
       "RotationY": 0,
       "Scale": 2.3,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -649,7 +585,6 @@
       "PosZ": 38.679996,
       "RotationY": 0,
       "Scale": 2.3,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -659,7 +594,6 @@
       "PosZ": 81.097725,
       "RotationY": 0,
       "Scale": 2.3,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -669,7 +603,6 @@
       "PosZ": 67.00165,
       "RotationY": 0,
       "Scale": 2.3,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -679,7 +612,6 @@
       "PosZ": 39.007324,
       "RotationY": 0,
       "Scale": 2.6,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -689,7 +621,6 @@
       "PosZ": 113.3823,
       "RotationY": 0,
       "Scale": 2.3,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -699,7 +630,6 @@
       "PosZ": 64.73377,
       "RotationY": 0,
       "Scale": 2.8999996,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -709,7 +639,6 @@
       "PosZ": 39.491554,
       "RotationY": 0,
       "Scale": 2.3,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -719,7 +648,6 @@
       "PosZ": 81.98188,
       "RotationY": 0,
       "Scale": 2.900001,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -729,7 +657,6 @@
       "PosZ": 81.55244,
       "RotationY": 0,
       "Scale": 3.2999992,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -739,7 +666,6 @@
       "PosZ": 42.44718,
       "RotationY": 0,
       "Scale": 2.3,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -749,7 +675,6 @@
       "PosZ": 47.178265,
       "RotationY": 0,
       "Scale": 2.3,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -759,7 +684,6 @@
       "PosZ": 78.824165,
       "RotationY": 0,
       "Scale": 2.3,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -769,7 +693,6 @@
       "PosZ": 69.16341,
       "RotationY": 0,
       "Scale": 2.3,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -779,7 +702,6 @@
       "PosZ": 83.073616,
       "RotationY": 0,
       "Scale": 2.3,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -789,7 +711,6 @@
       "PosZ": 8.412226,
       "RotationY": 0,
       "Scale": 3.2000008,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -799,7 +720,6 @@
       "PosZ": 8.460721,
       "RotationY": 0,
       "Scale": 3.2000008,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -809,7 +729,6 @@
       "PosZ": 8.053385,
       "RotationY": 0,
       "Scale": 3.3000007,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -819,7 +738,6 @@
       "PosZ": 8.0533905,
       "RotationY": 0,
       "Scale": 3.3000007,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -829,7 +747,6 @@
       "PosZ": 36.31459,
       "RotationY": 0,
       "Scale": 2.35,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -839,7 +756,6 @@
       "PosZ": 37.3152,
       "RotationY": 0,
       "Scale": 2.35,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -849,7 +765,6 @@
       "PosZ": 41.281322,
       "RotationY": 0,
       "Scale": 2.35,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -859,7 +774,6 @@
       "PosZ": 44.513565,
       "RotationY": 0,
       "Scale": 1.5500001,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -869,7 +783,6 @@
       "PosZ": 44.70782,
       "RotationY": 0,
       "Scale": 2.35,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -879,7 +792,6 @@
       "PosZ": 48.692352,
       "RotationY": 0,
       "Scale": 1.5500001,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -889,7 +801,6 @@
       "PosZ": 64.31731,
       "RotationY": 0,
       "Scale": 1.5500001,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -899,7 +810,6 @@
       "PosZ": 67.503944,
       "RotationY": 0,
       "Scale": 2.35,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -909,7 +819,6 @@
       "PosZ": 78.97248,
       "RotationY": 0,
       "Scale": 2.35,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -919,7 +828,6 @@
       "PosZ": 79.19612,
       "RotationY": 0,
       "Scale": 2.35,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -929,7 +837,6 @@
       "PosZ": 67.6122,
       "RotationY": 0,
       "Scale": 1.7500001,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -939,7 +846,6 @@
       "PosZ": 71.62861,
       "RotationY": 0,
       "Scale": 2.35,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -949,7 +855,6 @@
       "PosZ": -94.121414,
       "RotationY": 0,
       "Scale": 2,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -959,7 +864,6 @@
       "PosZ": -98.42988,
       "RotationY": 0,
       "Scale": 1.3999997,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -969,7 +873,6 @@
       "PosZ": -32.336533,
       "RotationY": 0,
       "Scale": 2.1,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -979,7 +882,6 @@
       "PosZ": -65.55325,
       "RotationY": 0,
       "Scale": 2,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -989,7 +891,6 @@
       "PosZ": -108.34559,
       "RotationY": 0,
       "Scale": 2,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -999,7 +900,6 @@
       "PosZ": -107.16657,
       "RotationY": 0,
       "Scale": 1.3999999,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -1009,7 +909,6 @@
       "PosZ": -80.060745,
       "RotationY": 0,
       "Scale": 2.35,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -1019,7 +918,6 @@
       "PosZ": -80.71546,
       "RotationY": 0,
       "Scale": 2,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -1029,7 +927,6 @@
       "PosZ": -65.385765,
       "RotationY": 0,
       "Scale": 2,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -1039,7 +936,6 @@
       "PosZ": -108.448006,
       "RotationY": 0,
       "Scale": 2,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -1049,7 +945,6 @@
       "PosZ": -31.019482,
       "RotationY": 0,
       "Scale": 2.1,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -1059,7 +954,6 @@
       "PosZ": -93.09995,
       "RotationY": 0,
       "Scale": 2,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -1069,7 +963,6 @@
       "PosZ": -65.385765,
       "RotationY": 0,
       "Scale": 2,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -1079,7 +972,6 @@
       "PosZ": -92.931885,
       "RotationY": 0,
       "Scale": 2,
-      "IsEnemy": false,
       "Player": 0
     },
     {
@@ -1089,7 +981,6 @@
       "PosZ": -97.52313,
       "RotationY": 0,
       "Scale": 1.3999997,
-      "IsEnemy": false,
       "Player": 0
     }
   ],
