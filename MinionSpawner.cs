@@ -72,16 +72,17 @@ public sealed class MinionSpawner
             for (var member = 0; member < 3; member++)
             {
                 var offset = new Vector3((member - 1) * SpawnOffset, 0, 0);
-                var unit = api.SpawnUnit(
+                var unit = api.SpawnUnitForPlayer(
                     player == 0 ? "moba_minion_team1" : "moba_minion_team2",
-                    spawnStart + offset,
-                    player == 1,
+                    new Vector2((spawnStart + offset).X, (spawnStart + offset).Z),
+                    player,
+                    true,
                     true);
-                if (unit == null)
+                if (!unit.IsValid)
                 {
                     if (!_reportedSpawnFailure)
                     {
-                        api.BroadcastMessage("MinionSpawner: SpawnUnit returned null; some minions were skipped");
+                        api.BroadcastMessage("MinionSpawner: SpawnUnitForPlayer returned an invalid unit; some minions were skipped");
                         _reportedSpawnFailure = true;
                     }
                     continue;
