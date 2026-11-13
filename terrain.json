@@ -1491,11 +1491,13 @@
     }
   ],
   "Decals": [],
+  "Items": [],
   "Vfx": [],
   "CameraBoundsLeft": -159,
   "CameraBoundsRight": 159,
   "CameraBoundsTop": -127,
   "CameraBoundsBottom": 157,
   "SkyboxPath": "Assets/skyboxes/jade_shrine.png",
-  "Coordinates": []
+  "Coordinates": [],
+  "SpawnAnchors": []
 }
