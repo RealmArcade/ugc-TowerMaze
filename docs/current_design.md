@@ -33,18 +33,23 @@ them is the "correct" way to play.
   visible on the board and all public.
 - **The comeback.** Surviving the bad round and climbing back into the match instead of being deleted
   from it.
-- **The teammate.** Splitting offence and support with an ally, sharing bounty and sharing death.
+- **The teammate.** Splitting offence and support with an ally (shared win condition).
 
 ---
 
 ## Resources
-- **Gold** - Granted for creep kills and spent on equippable items. 100 gold granted per round split evenly between all spawned units, leaking allows the next player to capture the bounty associated with that unit. Allies split the bounty but have separate wallets and can't spend each other's resources or trade it. Each equipped item costs 500 gold (same cost means they need to be balanced between each other).
-- **Wood** - Granted for _____ and spent on tower star-level upgrades
-- **Food** - Granted on a timer and spent on tower purchases
+- **Gold** - Granted for creep kills and spent on equippable items. 25 gold granted per round split evenly between all spawned units, leaking grants the attacking player a small bounty. Each equipped item costs 100 gold (same cost means they need to be balanced between each other).
+- **Wood** - Granted by neutral bosses and spent on tower hero-level upgrades. 100 wood per upgrade. Each tower has per-level RPG stat increase modifiers.
+- **Food** - Granted on a logarithmic timer and spent on tower purchases. Cadence is additional towers early and slow towers later, with 15th tower unlocking near the 30 minute mark.
 - **Your income never depends on what your enemies build.** Nothing is paid to you per creep they send,
-  so an enemy cannot starve you by building small or inflate you by building big. What varies with
-  them is your *danger*, never your wallet.
+  so an enemy cannot starve you by building small or inflate you by building big.
 - **Streak** A bonus gold bounty each round for being leak free, multiplied by the length of the streak (resets if you leak a creep)
+- **Interest** A bonus % periodic bounty for unspent resources (gold and wood, not food)
+- **Allies have separate wallets and cannot share resources or bounties** 
+
+## Neutral Encounters
+- **Triggered on a repeated timer as a modulus of wave counts** Every 5 waves (tunable). Next boss is always known (start of game & re-randomized after each boss terminates).
+- **Bounty** Non-killable DPS calculator, copy of same boss sent to all zones simultaneously and only takes 1 trip around circuit (no leak or teleport). Chosen randomly from a list of possible bosses so stats are well-known to players in advance (strengths/weaknesses) - Essentially chosen from list of all possible creeps but with all its abilities active, no items, and its level matching the wave number. Towers focus-fire boss 1st (before other low-health enemies). Total available bounty of 150 wood per player and each reward is split based on each player's damage % of the total.
 
 ## The map and placement
 
@@ -66,14 +71,11 @@ them is the "correct" way to play.
 
 ## Creeps and affinity
 
-- **Every creep is tagged by who spawned it.** That tag is fixed for its whole life: relative to any
-  given player, a creep is *allied* or *enemy*, and that never changes.
-- **Eliminated players have their towers destroyed and no longer spawn creeps** 
-- **A creep only walks enemy zones.** It spawns into the first enemy zone, walks the entire path, teleports to the next enemy,
-	and continues the circuit infinitely until death.
-- **What that means per mode:** in a duel your creeps circle your opponent's road for the rest of the
-  match; in a team game they circle the enemy team's roads; in a free-for-all they make the rounds of
-  every opponent.
+- **Every creep is tagged by its spawn owner and designated enemy.** Players attack-left and defend-right, skipping allied (no friendly fire) or empty zones (or eliminated players).
+	That tag is fixed for the creeps whole life. Kill bounty goes to defending player even if ally landed the killing blow.
+- **Eliminated players have their zone cleared (towers and creeps) and no longer spawn attacking creeps** This changes the assigned attacker and defender designations.
+- **A creep repeats the circuit until killed** It spawns at the start of the maze, walks the entire path, teleports, and continues the circuit infinitely until death.
+	In FFA, the teleport is back to the start of the maze. In team-based, it teleports to the start of the next ally's maze.
 - **All creeps in a match come from players' buildings.** The game does not spawn authored waves and
   there is no wave table anywhere.
 - **Creep variety comes from what people build.** A good unit has a clear identity and well-known
@@ -81,13 +83,11 @@ them is the "correct" way to play.
 
 ---
 
-## Buildings: one purchase, two jobs
+## Food spend (Buildings and Creeps: one purchase, two jobs)
 
-- **Every building is both defence and offence.** It fights in your zone and it produces creeps that
-  go out to enemy zones.
-- **There is no separate "send" system.** The creeps that attack other players are exactly the creeps
-  your buildings produce. Nothing is bought, queued or aimed separately, and there is no menu that
-  says "send this at that player".
+- **Every food spent is both defence and offence.** Towers defense your maze, spawned creeps walk an enemy's maze
+- **There is a 1:1 mapping between towers and creeps**
+- **There is no separate "send" system.** The creeps spawned by your towers are the waves your enemy needs to clear.
 - **Many build paths must exist.** A building may be a bruiser that fights and soaks, a dedicated
   carry, a support piece, or a hybrid — the same way a MOBA lets one character fill two roles
   depending on how it is built. Designers are free to be creative here.
@@ -101,25 +101,20 @@ them is the "correct" way to play.
 
 **Every building has exactly four abilities: one passive and three combos.**
 
-- **Free passive ability** It is an ability that unlocks without needing a combo with another 'named' synergies.
-- **Each combo ability is switched on by another building standing on the board.** It makes the
-  building fight better *and* it adds a new creep to the wave — a different body from the passive's.
-  So a fully unlocked building sends four kinds of creep in one round, and a board of fifteen sends
-  sixty at the absolute ceiling.
-- **Every unlock is defence and offence at once.** There is no way to buy offence without defence, and
-  no way to buy defence that does not also put bodies on the road. Spawn requires no additional resources.
-  Abilities may require mana to cast causing a tower to become less effective with insufficient mana regen.
-- **There is no web screen, and no tech tree.** The "web" is a *cognitive* web: the internal dependency
-  structure of which buildings switch on which. You read it from your own board and from the ability
-  cards, and it looks different every match because it depends on the buildings you own.
+- **Free passive ability** It is an ability that unlocks without needing a combo with another 'named' synergies. It also defines the associated creep that spawns. Spawn requires no additional resources.
+- **Each ability is switched on by a matching tag from another building on the board.** An unlocked ability grants a defined bonus to the tower and its associated spawned creep.
+	Abilities may require mana to cast causing a unit to become less effective with insufficient mana regen.
+- **Every ability unlock is defence and offence at once.** Scaling can be assymetrical as long as total power is balanced
 - **A building can switch on several partners at once.** One well-chosen building could satisfy the
   conditions of several others simultaneously, which is part of the planning puzzle.
-- **Duplicates prevented per player** You cannot build 2 copies of one tower.
+- **Duplicates prevented per player** You cannot build 2 copies of one tower. Purchasing a 2nd copy merges into the existing tower and increases its star level. The food is not consumed by purchasing the duplicate, so your open building slot stays available.
 - **Items are the scaling factor.** Each building can be equipped with one item maximum, and the item is cloned onto its spawned creeps.
 	Items are purchased with a separate resource (Gold).
 - **No selling** - A placed tower and chosen upgrade is permanent. No refunds, no undo. A choice is a commitment. Purchased items can be moved between towers.
-- **Star levels** - A separate resource (Wood) can be spent to increase the star level of a tower (shown as a floating # indicator above the head by the health bar).
+- **Star Levels** - Finding a duplicate tower that you already own increases the star level of that tower (max 3) which determines the quantity of creeps spawned each wave by that tower
+- **Hero levels** - Increased by spending a separate resource (Wood) (shown as a floating # indicator above the head by the health bar).
 	The base RPG stats all have per-level scaling which have different formulas per unit, which in turn makes a higher level stronger in both offense (creeps) and defense (tower attacks).
+- **Damage Targeting** - Towers have a deterministic targeting formula which filters for targetable units in range and sorts by bosses 1st and then lowest current health points (not percentage).
 
 **The six stats, as the engine actually defines them** (from `CombatTuning.cs`):
 
@@ -134,6 +129,27 @@ them is the "correct" way to play.
 
 ---
 
+## Named Synergies
+** Each 'tag' grants a specific modifier and is also used in determining matching pairs for ability unlocks **
+** Faction (Ability 1) **
+	- Orc 1.5x Strength per level
+	- Human 1.5x Intellience per level
+	- Elf 1.5x Agility per level
+	- Druid 1.5x Wisdom per level
+	- Goblin 1.5x Fortune per level
+	- Dwarf 1.5x Vitality per level
+** Damage Type (Ability 2) **
+	- Magic (Weak against Fortified, Strong against Cloth)
+	- Siege (Weak against Flesh, Strong against Fortified)
+	- Blunt
+	- Pierce
+** Defense Type (Ability 3) **
+	- Flesh
+	- Fortified
+	- Heavy
+	- Medium
+	- Cloth
+
 ## Knowing the board
 
 The board has to be read at a glance, mid-fight, without a tooltip or a spreadsheet.
@@ -145,8 +161,10 @@ The board has to be read at a glance, mid-fight, without a tooltip or a spreadsh
   next building" screen.
 - **Both directions read the same way.** You can tell what creeps a zone is sending from its towers,
   and what its towers must be from its creeps, because a creep's body says which class sent it.
-- **The build menu can filter.** It only needs to show choices that would switch something on, so a
-  large roster does not become a scroll bar. Nothing is hidden from a player who wants the full list.
+- **The build menu is randomized.** It gives 4 random choices with a reroll button (costing Gold). Player picks 1 to build.
+	It never offers a tower you already have at max star level. Reroll never shows a tower you previously viewed this round.
+	Reroll adds more choices to your current build list so you can still pick the previous options if you don't like any of the reroll options.
+	Tooltip must show all 3 synergy axes
 - **full vision** - Scouting is free, the strategy elements must work without hiding information
 
 ---
@@ -174,7 +192,6 @@ The board has to be read at a glance, mid-fight, without a tooltip or a spreadsh
   Meaning overflow happens through **accumulation**. Count is done by the creeps currently in your zone, meaning in a FFA a 
   creep that teleports to the next zone would no longer count against you (but incoming teleports would). For team-based your numbers are counted cumulative.
 - **Consequence for upgrades and items:** they may change *what* a building sends, never *how many*.
-  Quantity only goes up with stars, which is what keeps the limit from ever having to shrink.
 - **No second chances.** No forgiveness window that changes the rules, no difficulty change by stage
   of the match, no restarts. Every round follows the same rules for everybody. (A short scramble back
   under the limit is a different thing from a second chance)
@@ -185,8 +202,7 @@ The board has to be read at a glance, mid-fight, without a tooltip or a spreadsh
 ## Teams: you win or die together
 
 - **A team is one player for the purposes of losing.** Their total living creeps is compared against their total overflow threshold and they are eliminated as a whole team.
-- **Losing removes everything that team owns:** its buildings, and every creep it ever sent, wherever
-  those creeps happen to be standing. The board gets smaller and cleaner at that moment.
+- **Losing removes all buildings that team owns and stops future spawns:** previously spawned creeps keep walking the circuit until killed.
 - **Last team standing wins.** Teams are ranked as a team, in reverse order of elimination.
 
 ---
@@ -194,15 +210,15 @@ The board has to be read at a glance, mid-fight, without a tooltip or a spreadsh
 ## Leaks
 
 - **A leak is a creep leaving your zone alive.** It does not cost you health or points directly.
-- **The creep's owner gets a small bonus bounty when it leaks** — Gold, shared bounty split between allied team.
+- **The creep's owner gets a small bonus gold bounty when it leaks**
 
 ---
 
 ## The shrine
 
-- **A neutral shrine exists**, in the style of Enfo's spell shrine: a fixed set of useful spells, each
-  for a different situation.
-- **Spells cost mana and have cooldowns**, so the skill is in when and how you use them. Mana gained slowly over time based on the shrine's Mana regen stat.
+- **A player-owned shrine exists**, in the style of Enfo's spell shrine: a fixed set of useful spells, each
+  for a different situation. Each player has their own shrine, with the same abilities, but different current mana based on their previous spell casts. Spells can be cast globally onto any zone.
+- **Spells cost mana and have cooldowns**, so the skill is demonstrated by when and how you use them. Mana gained slowly over time based on the shrine's Mana regen stat.
 - **Open:** the spell list, what they can target
 
 ---
