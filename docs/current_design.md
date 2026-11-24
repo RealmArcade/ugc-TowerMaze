@@ -20,7 +20,7 @@ The fantasies the rules are built to deliver. Each one is reachable by a differe
 them is the "correct" way to play.
 
 - **The tide.** Numbers as a strategy: a late board sending a full wave down the road and burying
-  somebody. This is why every ability a building unlocks adds another creep to the wave.
+  somebody.
 - **The few perfect pieces.** The opposite bet: a small, expensive cluster that kills everything that
   walks in and never leaks. This is why stars make a building better and why the slot count is tight.
 - **The carry.** One building that becomes the whole plan, fed merges and items until it does most of
@@ -189,8 +189,7 @@ The board has to be read at a glance, mid-fight, without a tooltip or a spreadsh
 - **The only failure state is overflow:** more live creeps in your zone than your limit allows. No
   base health, no lives counter, no attacking buildings.
 - **The limit is a small multiple of the wave arriving in your zone** — Probably 2.5x the current spawn count (tunable) with a minimum threshold of ~ 25 (tunable) to prevent early loss.
-  Meaning overflow happens through **accumulation**. Count is done by the creeps currently in your zone, meaning in a FFA a 
-  creep that teleports to the next zone would no longer count against you (but incoming teleports would). For team-based your numbers are counted cumulative.
+  Meaning overflow happens through **accumulation**. Count is done by the creeps currently in your zone. For team-based your numbers are counted cumulative.
 - **Consequence for upgrades and items:** they may change *what* a building sends, never *how many*.
 - **No second chances.** No forgiveness window that changes the rules, no difficulty change by stage
   of the match, no restarts. Every round follows the same rules for everybody. (A short scramble back
@@ -240,19 +239,6 @@ The board has to be read at a glance, mid-fight, without a tooltip or a spreadsh
   to overflow finishes highest. That ordering is the whole result.
 - **A match must not run long past about thirty minutes.** The game is expected to produce a decided
   ending shortly after that mark rather than allowing a stalemate. The current plan is that all creeps gain +1 HeroLevel per round after round 30 infinitely until game over, which should quickly outpace tower upgrades and force an overrun scenario for both teams.
-
----
-
-## Open questions
-
-**How a combo names its partner** — by specific unit, by class, or by a class count, and the rule
-   that stops a mono-class board unlocking itself. This decides whether the roster can grow for years
-   without the web being rewritten.
-**Roster size and growth** — whether the set of buildings grows over the years, and how big the pool
-   needs to be for a fifteen-slot board.
-6. **Classes** — how many, and what the readable strengths and weaknesses of a creep are.
-**The neutral objective** — the dragon-equivalent swing, still undesigned.
-**Resource numbers** — the stipend, the streak curve.
 
 ---
 
